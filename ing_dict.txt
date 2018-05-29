@@ -1,0 +1,220 @@
+{
+  {
+    "mayonnaise": [
+      "mayonnaise",
+      "mayonaise",
+      "low-fat mayonnaise",
+      "fat-free mayonnaise",
+      "Hellmann''s Light Mayonnaise",
+      "light mayonnaise",
+      "vegan mayonnaise",
+      "hellmann' or best food real mayonnais",
+      "Hellmann's® Real Mayonnaise",
+      "hellmann' or best food light mayonnais",
+      "Kewpie Mayonnaise",
+      "Best Foods® Real Mayonnaise",
+      "reduced fat mayonnaise",
+      "nonfat mayonnaise",
+      "olive oil mayonnaise",
+      "hellmannâ€™ or best food canola cholesterol free mayonnais",
+      "Kraft Mayonnaise"
+    ]
+  },
+  {
+    "black_pepper": [
+      "pepper",
+      'ground pepper',
+      'ground black pepper',
+      'black pepper',
+      'freshly ground pepper',
+      'cracked black pepper',
+      'black peppercorns',
+      'peppercorns',
+      'whole peppercorn',
+      'coars ground black pepper',
+      'blackpepper',
+      'ground peppercorn',
+      'crushed peppercorn'
+    ]
+  },
+  {
+    "soy_sauce": [
+      'soy sauce',
+      'low sodium soy sauce',
+      'light soy sauce',
+      'dark soy sauce',
+      'tamari soy sauce',
+      'lower sodium soy sauce',
+      'reduced sodium soy sauce',
+      'Japanese soy sauce',
+      'regular soy sauce',
+      'gluten free soy sauce',
+      'usukuchi soy sauce',
+      'wheat free soy sauce',
+      'sweet soy sauce',
+      'less sodium soy sauce',
+      'low sodium gluten free soy sauce',
+      'Kikkoman Soy Sauce',
+      'organic soy sauce',
+      'less sodium mushroom flavored soy sauce',
+      'Kikkoman Less Sodium Soy Sauce'
+    ]
+  },
+  {
+    "butter": [
+      'butter',
+      'unsalted butter',
+      'melted butter',
+      'softened butter',
+      'salted butter',
+      'Crystal Farms Butter',
+      'stick butter',
+      'light butter',
+      'Land O Lakes® Butter',
+      'grass-fed butter',
+      'organic unsalted butter',
+      'organic butter',
+      'sweet cream butter'
+    ]
+  },
+  {
+    "peanut_butter": [
+      'creamy peanut butter',
+      'peanut butter',
+      'natural peanut butter',
+      'chunky peanut butter',
+      'reduced fat creamy peanut butter',
+      'Skippy Creamy Peanut Butter',
+      'unsalted peanut butter',
+      'smooth natural peanut butter',
+      'Jif Creamy Peanut Butter',
+      'reduced fat chunky peanut butter'
+    ]
+  },
+  {
+    "white_rice": [
+      'white rice',
+      'instant white rice',
+      'cooked white rice',
+      'steamed white rice',
+      'long grain white rice',
+      'enriched white rice',
+      'Minute White Rice',
+      'Success White Rice'
+    ]
+  },
+  {
+    "ghee": [
+      'ghee',
+      'clarified butter'
+    ]
+  },
+  {
+  "fresh_basil": [
+      'fresh basil',
+      'basil',
+      'fresh basil leaves',
+      'basil leaves',
+      'loosely packed fresh basil leaves',
+      'sweet basil',
+      'shredded basil'
+    ]
+  },
+  {
+    "fresh_ginger": [
+      'fresh ginger root',
+      'fresh ginger',
+      'ginger',
+      'peeled fresh ginger',
+      'gingerroot',
+      'minced ginger',
+      'ginger root'
+    ]
+  },
+  {
+    "coconut_milk": [
+      'unsweetened coconut milk',
+      'coconut milk',
+      'low-fat coconut milk',
+      'light coconut milk',
+      'lite coconut milk',
+      'reduced fat coconut milk',
+      'canned coconut milk',
+      'full fat coconut milk',
+      'organic coconut milk',
+      'low-fat canned coconut milk'
+    ]
+  },
+  {
+    "Naan": [
+      'Stonefire Tandoori Garlic Naan',
+      'naan',
+      'garlic naan'
+    ]
+  },
+  {
+    "garam_masala": [
+      'whole garam masala',
+      'CURRY GUY Smoked Garam Masala',
+      'garam masala'
+    ]
+  },
+  {
+    "olive_oil": [
+      'olive oil',
+      'extra-virgin olive oil',
+      'Bertolli® Classico Olive Oil',
+      'mild olive oil',
+      'pure olive oil',
+      'virgin olive oil',
+      'DeLallo Extra Virgin Olive Oil',
+      'extra light olive oil',
+      'Goya Extra Virgin Olive Oil'
+    ]
+  },
+  {
+    "cream_cheese": [
+      'cream cheese',
+      'Philadelphia Cream Cheese',
+      'cream cheese, soften',
+      'fat free cream cheese',
+      'light cream cheese',
+      'reduced fat cream cheese',
+      'low-fat cream cheese',
+      'whipped cream cheese',
+      'Philadelphia Light Cream Cheese',
+      'full fat cream cheese',
+      'nonfat block cream cheese',
+      'nonfat cream cheese',
+      'cream cheese lowfat'
+    ]
+  },
+  {
+    "corn_tortillas": [
+      "corn tortillas",
+      "gluten free corn tortillas",
+      "soft corn tortillas",
+      "Mission Yellow Corn Tortillas",
+      "Mission Corn Tortillas"
+    ]
+  },
+  {
+    "flour_tortillas": [
+      "flour tortillas",
+      "Old El Paso Flour Tortillas",
+      "large flour tortillas",
+      "fajita size flour tortillas",
+      "flour tortillas (not low fat)",
+      "soft taco size flour tortillas",
+      "low-fat flour tortillas",
+      "Azteca Flour Tortillas"
+    ]
+  },
+  {
+    "whole_wheat_tortillas": [
+      "medium whole wheat tortillas",
+      "whole wheat tortilla wraps",
+      "whole wheat tortillas"
+    ]
+  }
+}

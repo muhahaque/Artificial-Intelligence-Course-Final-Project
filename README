@@ -1,0 +1,43 @@
+Explain how to run your code here.
+
+
+
+Data preprocessing:
+    - ** You shouldn't need to run this -- our preprocessed data is saved as
+        train_copy_5, train_copy_6, etc. **
+
+    - To run: python3 data_cleaning.py
+
+    - reads in train.json (training data from kaggle)
+    - To change ingredient dictionary (file of duplicate ingredients to be replaced),
+      change X:
+        - (input) Line 4: ing_dict_X.json
+        - (output) Line 22: train_copy_X.json
+        - Valid X: 5, 6, 7 (best results=5)
+        - (Ingredient dictionaries are in the ing_dicts folder)
+
+    - output:
+        - overwrites (or creates) train_copy_X.json with new cleaned data
+
+
+Main program:
+  - To run: python3 final_project.py
+  - Outputs accuracies to results.json
+
+  - To use unprocessed data:
+      - Make the file on line 108 'train.json'
+  - To use preprocssed data:
+      - Make the file on line 108 'train_copy_X.json'
+      - Valid: X = 5, 6, 7 (best results=5)
+
+  - The main program automatically creates a one-hot encoding of the data
+    and splits it into train and test sets
+
+  - To run Random Forest:
+      - make sure line 25 is uncommented
+
+  - To run Neural Network:
+      - make sure line 26 is uncommented
+
+  - To output graphs of results (requires that both models were run):
+      - uncomment line 31

@@ -1,0 +1,6714 @@
+taro : 12
+pollock : 2
+smoked gouda : 26
+coconut water : 5
+japanese pumpkin : 1
+crumbled blue cheese : 37
+Bragg Liquid Aminos : 4
+light mayonnaise : 61
+whole wheat bread : 18
+seasoned rice wine vinegar : 60
+sea salt : 940
+pig's trotters : 2
+green chilies : 768
+reduced sodium ham : 1
+corn mix muffin : 26
+tap water : 3
+Mission Yellow Corn Tortillas : 1
+summer squash : 18
+clementines : 4
+wakame : 19
+pears : 97
+frozen chopped spinach : 206
+shell-on shrimp : 41
+Kraft Extra Sharp Cheddar Cheese : 1
+anise : 62
+vanilla glaze : 1
+extra-virgin olive oil : 2747
+swanson beef broth : 3
+creme anglaise : 8
+deli ham : 16
+walnut pieces : 13
+reduced fat reduced sodium tomato and herb pasta sauce : 1
+maifun : 1
+shichimi togarashi : 18
+white button mushrooms : 27
+dried Thai chili : 5
+raspberry puree : 2
+pheasant : 3
+cooking fat : 7
+mostarda : 2
+fresca : 9
+pecorino cheese : 55
+corn oil : 121
+hazelnut butter : 4
+boneless, skinless chicken breast : 36
+hot chili oil : 14
+farina : 3
+habas : 1
+green cabbage : 208
+skim milk : 81
+lemon extract : 25
+yaki-nori : 2
+shredded swiss cheese : 46
+shortcakes : 2
+gingersnap cookie crumbs : 2
+fat free ice cream : 2
+chilled seltzer : 1
+meat tenderizer : 8
+bertolli organic tradit sauc : 1
+grape vine leaves : 1
+curry powder : 694
+Manischewitz Potato Starch : 1
+canned chicken broth : 27
+roast pork seasoning mix : 1
+rosemary needles : 2
+pastry : 46
+fresh coriander : 285
+white truffle oil : 16
+Sargento® Traditional Cut Shredded Mozzarella Cheese : 1
+whole turkey : 1
+banger : 7
+beets : 106
+bertolli four chees rosa sauc : 2
+chinese roast pork : 4
+masago : 1
+dark crème de cacao : 1
+waffle : 5
+escargot : 4
+fresh salmon : 5
+fine grain salt : 1
+buttermilk : 863
+kosher wine : 1
+yellow bell pepper : 291
+French lentils : 9
+Taco Bell Taco Seasoning Mix : 4
+pasta shells : 30
+hollandaise sauce : 4
+homemade chicken stock : 40
+low sodium store bought chicken stock : 4
+eye of the round : 1
+chocolate bars : 8
+white corn syrup : 4
+Spring! Water : 5
+bran flakes : 1
+mole poblano : 2
+ancho chili ground pepper : 13
+top round steak : 27
+condensed cream of broccoli soup : 1
+JOHNSONVILLE® Hot 'N Spicy Brats : 1
+vanilla pods : 7
+corn kernels : 280
+Dole Seven Lettuces : 1
+ciabatta : 23
+Meyer lemon peel : 1
+beans : 100
+dark soy sauce : 312
+verjuice : 1
+boneless veal shoulder : 2
+steak fillets : 2
+sambuca : 4
+kecap manis : 17
+raw honey : 18
+bonito : 10
+sausage links : 59
+silken tofu : 44
+whole milk ricotta cheese : 53
+reduced fat mozzarella : 4
+fresh asparagus : 43
+whole wheat pizza dough : 6
+pepper sauce : 34
+nonfat italian dressing : 1
+strawberry compote : 1
+cooked chicken breasts : 111
+knoblauch : 2
+low sodium broth : 2
+gelato : 4
+rajma : 9
+orange bell pepper : 93
+jeera : 27
+piquillo peppers : 2
+toasted sunflower seeds : 1
+compressed yeast : 3
+boneless pork shoulder : 79
+ground asafetida : 3
+bacon bits : 9
+nonfat yogurt : 51
+dried chestnuts : 2
+frogs legs : 2
+Mazola® Chicken Flavor Bouillon Powder : 1
+reduced sodium garbanzos : 1
+mixed mushrooms : 8
+bay leaves : 1036
+meringue powder : 2
+vanilla bean ice cream : 3
+mixed frozen seafood : 1
+fresh pork fat : 17
+gumbo : 2
+wood ear mushrooms : 29
+manicotti : 6
+stewing beef : 23
+cappuccino : 1
+yellow chives : 6
+shredded nori : 5
+prepared lasagne : 12
+Swerve Sweetener : 3
+california avocado : 9
+milk chocolate : 30
+sweet chorizo : 1
+chile sauce : 39
+ground pecans : 4
+bread and butter pickle slices : 3
+fajita size flour tortillas : 12
+fresh lavender : 2
+chopped fresh chives : 227
+petrale sole : 1
+minced beef : 30
+straw mushrooms : 31
+Alaskan king crab legs : 2
+calamansi juice : 17
+marshmallow creme : 15
+amber rum : 1
+pilsner : 2
+33% less sodium cooked ham : 1
+chourico : 1
+pinenuts : 348
+carne seca : 4
+flax seed meal : 7
+chow mein noodles : 32
+pork tongue : 2
+pastry dough : 27
+plain seltzer : 1
+yuca : 3
+pizza seasoning : 1
+shiitake mushroom caps : 63
+moroccan seasoning : 2
+bacon pieces : 5
+ginger beer : 4
+frozen edamame beans : 18
+ground veal : 43
+crumbled ricotta salata cheese : 10
+lamb shoulder chops : 9
+soaking liquid : 5
+pizza crust : 44
+creole seasoning mix : 1
+wish-bone : 1
+meringue : 9
+shredded low-fat jarlsberg cheese : 1
+glutinous rice flour : 26
+green gram : 3
+skinless cod fillets : 1
+blue cheese : 22
+ginger : 1755
+salted fish : 5
+chuka soba noodles : 2
+black cardamom pods : 10
+bass fillets : 7
+medium whole wheat tortillas : 1
+stout : 26
+lower sodium beef broth : 13
+arugula : 177
+naan : 37
+Dutch-processed cocoa powder : 21
+corn flour : 70
+boneless ham : 2
+boneless sirloin steak : 13
+vanilla frozen yogurt : 1
+refrigerated biscuits : 12
+lemon olive oil : 1
+nut oil : 3
+cane syrup : 9
+Mountain Dew Soda : 1
+pomegranate molasses : 7
+cactus leaf : 1
+red bell pepper : 1939
+dukkah : 2
+regular tofu : 4
+strawberries : 219
+treviso radicchio : 1
+semisweet chocolate chunks : 1
+low-fat ricotta cheese : 11
+New York Style Panetini® toasts : 1
+white baking bar : 2
+leaves : 93
+gravy mix mushroom : 1
+farmer cheese : 15
+cheddar cheese : 424
+candy sprinkles : 4
+sazon goya with coriander and annatto : 1
+swiss cheese : 55
+pancake batter : 1
+unsweetened apple juice : 5
+bread and butter pickles : 6
+hungarian sweet paprika : 37
+forest fruit : 6
+kidney beans : 159
+vanilla bean seeds : 1
+shimeji mushrooms : 6
+shortcrust pastry : 4
+precooked meatballs : 2
+sorrel : 13
+peaches in heavy syrup : 6
+salad greens : 49
+Chinese rice vinegar : 8
+whole wheat tortillas : 93
+limoncello : 6
+taco seasoned cheese : 1
+instant espresso granules : 6
+knorr pasta side : 1
+chocolate candy bars : 6
+pork butt : 67
+hot chili sauce : 36
+roasted almond oil : 1
+smoked pork : 4
+heavy cream : 1146
+reduced sodium smoked ham : 1
+quinces : 12
+lady fingers : 2
+crab meat : 33
+plain low fat greek yogurt : 7
+pasilla chile pepper : 2
+oil of orange : 1
+ginger ale : 10
+old-fashioned oatmeal : 3
+levain bread : 1
+tuscan sausage : 1
+giant white beans : 2
+unbaked pie crusts : 17
+dangmyun : 1
+royal olives : 1
+store bought low sodium chicken broth : 12
+95% lean ground beef : 4
+beef tenderloin : 65
+pancit bihon : 1
+thickeners : 2
+light whipping cream : 1
+unbaked pie shells : 2
+condensed cream of potato soup : 5
+whipped dessert topping : 1
+yucca : 3
+yellow miso : 20
+mixed dried fruit : 14
+red : 10
+sliced tomatoes : 23
+cannellini beans : 203
+Fuyu persimmons : 3
+nondairy whipped topping : 1
+dried split peas : 3
+methi leaves : 4
+earl grey tea bags : 3
+thick curds : 1
+boneless steak : 1
+bigoli : 1
+Progresso Diced Tomatoes : 1
+chicken parts : 16
+amaretti : 7
+seasoning salt : 131
+clotted cream : 5
+frozen corn : 175
+sliced almonds : 187
+bread : 175
+small white beans : 16
+seltzer water : 7
+dried rice noodles : 42
+dulce de leche : 5
+canned beef broth : 25
+heeng : 2
+pie shell : 32
+meat loaf mix : 2
+italian tomatoes : 21
+Hatch Green Chiles : 7
+lamb cubes : 1
+soft goat's cheese : 23
+sparkling sugar : 3
+Crystal Hot Sauce : 3
+holy basil : 7
+kabocha squash : 8
+veal for stew : 7
+Kroger Black Beans : 1
+hoisin sauce : 429
+KRAFT Shredded Colby & Monterey Jack Cheese : 1
+carrots : 2814
+whole cloves : 76
+frozen pizza dough : 5
+asafetida : 44
+Breyers® Natural Vanilla Ice Cream : 2
+medium zucchini : 4
+creole style seasoning : 9
+black salt : 12
+myzithra : 2
+low-fat pasta sauce : 4
+vegan cheese : 3
+lemon pudding : 1
+benne seed : 1
+coffee low-fat frozen yogurt : 1
+cacao nibs : 3
+long grain brown rice : 21
+fresh lime : 29
+tarragon leaves : 9
+all purpose unbleached flour : 179
+peach slices : 22
+curry paste : 106
+Kraft Sun Dried Tomato Vinaigrette : 1
+chihuahua cheese : 10
+asti spumante : 1
+apricots : 34
+frozen onion rings : 1
+frozen peaches : 9
+nori sheets : 19
+dried pineapple : 1
+chopped fresh mint : 317
+vidalia onion : 115
+durum wheat flour : 4
+slider buns : 3
+branston pickle : 1
+nama shoyu : 1
+roasted tomatoes : 57
+savoiardi : 2
+beef carpaccio : 1
+rocket leaves : 49
+beef consomme : 15
+giardiniera : 11
+panettone : 6
+pound cake mix : 1
+chopped cilantro fresh : 1698
+low sodium chicken broth : 339
+Grand Marnier : 30
+cilantro : 1142
+poppadoms : 3
+black turtle beans : 4
+muscovy : 1
+potato flour : 10
+whole wheat spaghettini : 1
+gluten-free breadcrumbs : 2
+red kidnei beans, rins and drain : 18
+squid : 85
+prawns : 92
+italian seasoned dry bread crumbs : 11
+smoked almonds : 1
+grape tomatoes : 228
+turkey thigh : 2
+fresh ham : 2
+prunes : 61
+sliced cucumber : 28
+Nido Milk Powder : 1
+low sodium worcestershire sauce : 13
+frozen chopped broccoli : 6
+brown ale : 4
+berries : 37
+garlic chives : 25
+pork sausage casing : 1
+violets : 1
+basil dried leaves : 31
+croissant dough : 3
+stone-ground cornmeal : 15
+poha : 13
+vinegar : 316
+chopped tomatoes : 298
+soya flour : 1
+topping : 3
+BACARDI® Mixers Margarita Mix : 1
+rock salt : 14
+queso fresco : 141
+ground peppercorn : 2
+raw prawn : 1
+sweet rice : 21
+green figs : 1
+bean soup mix : 2
+artichoke hearts : 135
+gorgonzola : 31
+barley flakes : 1
+crushed tomatoes : 453
+gravenstein apple : 1
+chocolate sticks : 1
+green lentil : 18
+boneless pork loin : 62
+korean buckwheat noodles : 1
+macaroni and cheese dinner : 1
+water packed artichoke hearts : 2
+golden raisins : 240
+wheat beer : 2
+lasagna sheets : 3
+sugar pumpkin : 4
+regular soy sauce : 30
+japanese cucumber : 14
+gluten : 23
+asian wheat noodles : 2
+cooking wine : 62
+ground mustard : 27
+soft sandwich rolls : 2
+pork sausages : 115
+chopmeat : 1
+canola mayonnaise : 10
+sago : 5
+rice powder : 5
+Italian parsley leaves : 125
+brown hash potato : 6
+ready-made pie crusts : 1
+wholemeal flour : 5
+roasted salted cashews : 3
+minced pork : 36
+unsalted pecans : 1
+applewood smoked bacon : 17
+Franks Hot Sauce : 1
+french onion soup : 3
+lamb stew meat : 22
+ficelle : 2
+calamansi : 15
+lowfat pepper jack cheese : 3
+yellow mustard : 47
+salad oil : 56
+Japanese turnips : 12
+unsalted cashews : 27
+sweet rice flour : 30
+frozen banana leaf : 11
+spelt flour : 5
+rack of lamb : 15
+raw almond : 13
+dashi : 128
+organic sugar : 7
+parsley sprigs : 140
+sweet relish : 3
+frozen corn kernels : 124
+rump roast : 14
+meat loaf mixture : 1
+mahimahi : 6
+less sodium chicken broth : 2
+ground black pepper : 4785
+au jus gravy mix : 2
+sweet pepper : 62
+red russian kale : 3
+minced lean steak : 1
+pineapple chunks : 44
+allspice berries : 31
+red bliss potato : 6
+Marshmallow Fluff : 1
+peach preserves : 13
+tri tip : 4
+glace cherries : 4
+dried apple rings : 1
+swanson chicken stock : 1
+Texas Pete Hot Sauce : 2
+whole nutmegs : 15
+garlic pepper seasoning : 8
+diced tomatoes : 1624
+brown sauce : 1
+water spinach : 4
+tahini : 62
+rooster : 2
+pineapple slices : 9
+juice : 280
+roasted chili paste : 1
+sundried tomato pesto : 10
+branca menta : 1
+chili beans : 25
+yellowtail snapper fillets : 1
+ramen noodles seasoning : 2
+vanilla frosting : 2
+taco toppings : 7
+instant coffee : 19
+seafood breader : 1
+ground cinnamon : 1231
+lemon cucumber : 1
+blue cheese dressing : 5
+popcorn kernels : 3
+avocado oil : 12
+white bread slices : 1
+pie pastry : 4
+sandwich bread : 5
+whole garam masala : 1
+shredded monterey jack cheese : 11
+fried eggs : 14
+fermented black beans : 36
+t-bone steak : 2
+nonfat dry milk : 9
+diced potatoes : 6
+reduced fat ricotta cheese : 2
+chicken stock : 1039
+soup pasta : 1
+crumbled cheese : 2
+pineapple juice concentrate : 2
+pastry tart shell : 1
+shredded Italian cheese : 7
+cilantro root : 25
+almond extract : 173
+sirloin tip : 7
+chicharron : 1
+salted pistachios : 1
+Knorr® Fiesta Sides™ - Mexican Rice : 2
+hard-boiled egg : 104
+Melba toast : 3
+ramen noodle soup : 1
+center cut pork loin chops : 4
+streaky bacon : 4
+goat cheese : 169
+andouille turkey sausages : 2
+clam juice : 92
+coconut cream : 77
+turkey breast cutlets : 10
+brie cheese : 37
+cooked beetroot : 1
+salted roasted almonds : 1
+white bread : 130
+beau monde seasoning : 2
+cherry tomatoes : 436
+lamb sausage : 3
+ancho chile pepper : 143
+pickling liquid : 2
+wild asparagus : 1
+salted dry roasted peanuts : 8
+unsalted chicken stock : 15
+whole wheat angel hair pasta : 3
+cheese ravioli : 18
+haddock : 7
+lima beans : 32
+essence : 18
+crisco : 7
+Ragu Golden Veggie Fettuccine Pasta : 1
+reduced sugar orange marmalade : 2
+capsicum : 50
+fish steaks : 6
+shelled pistachios : 14
+pomegranate seeds : 29
+2% lowfat greek yogurt : 2
+peapods : 1
+vegetarian protein crumbles : 1
+organic buttermilk : 1
+fresh curry leaves : 69
+dry milk powder : 8
+mint : 163
+chinese chives : 37
+split yellow lentils : 3
+rounds : 5
+salted roast peanuts : 33
+Gebhardt Chili Powder : 1
+rigatoni or large tube pasta : 2
+london broil : 4
+black bean and corn salsa : 3
+custard dessert mix : 1
+chocolate chunks : 2
+yeast extract : 3
+nonfat powdered milk : 3
+corn chips : 31
+fish broth : 3
+chicken breast tenders : 29
+skinless and boneless chicken breast fillet : 1
+espresso powder : 5
+mustard sauce : 2
+stock : 90
+long green beans : 2
+part-skim mozzarella : 25
+dried fettuccine : 14
+asian black bean sauce : 1
+dill weed : 23
+luke warm water : 7
+self-rising cake flour : 5
+ham steak : 19
+beef shoulder roast : 5
+low sodium cajun seasoning : 1
+white sugar : 1093
+chili seasoning : 5
+lamb shanks : 48
+reduced sodium fat free chicken broth : 3
+light tuna packed in olive oil : 5
+Sangiovese : 1
+blanco tequila : 2
+anchovy fillets : 189
+vinaigrette : 43
+dhaniya powder : 1
+game : 1
+vanilla cake mix : 1
+hard cider : 2
+molasses : 106
+peppermint extract : 4
+chopped garlic : 345
+salad dressing : 69
+brown rice noodles : 3
+cinnamon sugar : 10
+toasted baguette : 9
+crusty rolls : 6
+pork loin chops : 53
+toasted nori : 14
+tortilla wraps : 5
+Alfredo sauce : 48
+chopped ham : 16
+cod fillets : 49
+angled loofah : 1
+fideos : 6
+fresh tarragon : 142
+black grapes : 1
+ground meat : 20
+tenderloin steaks : 3
+tuna packed in olive oil : 24
+saltpeter : 1
+diced bacon : 1
+strawberry extract : 1
+split black lentils : 14
+brill : 1
+harusame : 1
+sliced green olives : 5
+asparagus : 230
+Ragu Traditional Sauce : 1
+light beer : 14
+nonpareils : 2
+sauce mix : 1
+processed cheese : 43
+raw milk : 1
+louisiana hot sauce : 6
+Italian turkey sausage links : 2
+corn tortilla chips : 38
+yogurt low fat : 1
+mixed seafood : 3
+cooked brisket : 2
+shell steak : 2
+short rib : 28
+blacan : 1
+unsalted vegetable stock : 3
+leeks : 435
+butternut : 1
+pumpkin seed oil : 1
+japanese radish : 1
+chees fresco queso : 34
+dried mixed herbs : 9
+breasts halves : 2
+rosemary sprigs : 108
+apple juice concentrate : 6
+honey graham crackers : 1
+guacamole : 185
+beef roast : 16
+frozen mini ravioli : 1
+glutinous rice : 30
+chinese black mushrooms : 12
+sweet potatoes : 455
+baby goat : 1
+boneless skin on chicken thighs : 4
+beef shoulder : 5
+chai tea concentrate : 1
+filipino eggplant : 1
+low sodium canned chicken stock : 5
+store bought low sodium chicken stock : 31
+pace picante sauce : 7
+onion soup : 3
+buckwheat honey : 1
+boy choy : 1
+basil mayonnaise : 3
+soya cheese : 1
+condensed reduced fat reduced sodium cream of mushroom soup : 3
+French mustard : 5
+beef ribs : 5
+pasilla pepper : 5
+calabaza : 3
+shuck corn : 12
+ginkgo nut : 2
+hot dog bun : 10
+cilantro stems : 71
+hickory smoke : 1
+date molasses : 1
+Red Gold® diced tomatoes : 5
+leaf parsley : 4
+pareve margarine : 1
+low-fat mayonnaise : 20
+pinot blanc : 2
+bénédictine : 1
+beef base : 6
+mature cheddar : 6
+dried barberries : 1
+wild salmon : 3
+Guinness Beer : 26
+rotelle : 31
+protein powder : 1
+abbamele : 1
+nonfat mayonnaise : 4
+eggs : 3388
+spring greens : 2
+panang curry paste : 3
+mild pork sausage : 2
+low-fat firm silken tofu : 1
+granular sucrolose sweetener : 1
+cotija : 139
+margarita salt : 3
+hing (powder) : 2
+imitation seafood : 1
+roasted peanuts : 156
+turkey breakfast sausage : 4
+macadamia nuts : 11
+small eggs : 2
+mini pepperoni slices : 1
+uni : 1
+1% low-fat buttermilk : 4
+unsalted peanut butter : 4
+black cod fillets : 8
+Spike Seasoning : 12
+eating apple : 2
+lavender : 4
+extra firm tofu : 137
+icing : 7
+poppy seed dressing : 2
+skinless chicken pieces : 8
+lard : 157
+oat milk : 1
+dessert wine : 3
+tortellini : 20
+sweet cherries : 21
+candied ginger : 6
+whole okra : 6
+yellow food coloring : 22
+prepared horseradish : 72
+tvp : 2
+bone-in chicken breasts : 19
+fleur de sel : 25
+reduced sodium black beans : 7
+nectarines : 25
+rapid rise yeast : 16
+black rice vinegar : 9
+ti leaves : 1
+kiwifruit : 3
+fat-free cottage cheese : 18
+muscovado sugar : 21
+pea eggplants : 2
+Zatarains Creole Seasoning : 1
+digestive biscuit : 3
+Ritz Crackers : 6
+unsalted margarine : 3
+chipotle peppers : 67
+non dairy yogurt : 1
+mint chocolate chip ice cream : 1
+energy drink : 1
+mayonaise : 781
+light brown sugar : 422
+vegetable shortening : 138
+diced pimentos : 7
+butter : 4848
+free-range chickens : 7
+camembert : 4
+butter lettuce : 44
+asian chile paste : 3
+hellmannâ€™ or best food canola cholesterol free mayonnais : 1
+high-gluten flour : 2
+proscuitto di parma : 1
+chile paste : 45
+chopped bell pepper : 23
+tuong : 1
+ponzu : 22
+kangkong : 3
+light coconut milk : 156
+shoyu : 21
+popped popcorn : 2
+slaw : 21
+baguette : 270
+coffee beans : 17
+whole grain rice : 2
+mizuna : 3
+bouquet : 5
+lemon : 1218
+low sodium beef broth : 26
+salt free herb seasoning : 1
+red pepper flakes : 669
+mackerel fillets : 7
+teriyaki marinade : 2
+marinade : 81
+gingersnap cookies : 4
+baby spinach : 257
+whole grain bread : 6
+cherry syrup : 1
+minced onion : 189
+burger rolls : 1
+artisan bread : 1
+lavender buds : 2
+caramel ice cream topping : 4
+flaked : 5
+white peppercorns : 27
+coconut oil : 221
+Chianti : 10
+Spanish olives : 2
+mixed fruit : 3
+butter flavor vegetable shortening : 1
+vegetable juice cocktail : 3
+burger buns : 5
+Tipo 00 flour : 1
+grated orange peel : 95
+sweet pickle relish : 10
+and cook drain pasta ziti : 1
+grated lemon peel : 181
+sauce : 458
+coconut juice : 9
+BREAKSTONE'S Sour Cream : 1
+teleme : 2
+butterflied leg of lamb : 3
+sourdough bread : 50
+raspberry juice : 1
+falafel : 1
+boneless chicken : 35
+TACO BELL® HOME ORIGINALS® Taco Seasoning Mix : 1
+fillet steaks : 2
+corn bread crumbs : 1
+tangerine : 21
+tilapia : 29
+creme de cacao : 1
+red grapefruit : 5
+chilli paste : 24
+baby beets : 1
+veal shoulder : 3
+smoked ham hocks : 62
+lamb : 62
+frozen mixed thawed vegetables, : 5
+chicken breast tenderloins : 4
+kalamata olive halves : 1
+crimini mushrooms : 64
+patis : 9
+instant chicken bouillon granules : 1
+tapioca starch : 38
+breadcrumb mix : 1
+farfalline : 1
+icing mix : 1
+dry sherry : 256
+whole peel tomatoes, undrain and chop : 2
+raspberry fruit spread : 1
+peach vodka : 1
+sangria : 2
+duck egg : 3
+(15 oz.) refried beans : 3
+garland chrysanthemum : 1
+blackening seasoning : 5
+chocolate flavored liqueur : 1
+cured meats : 1
+stir fry beef meat : 2
+bear : 1
+carrot sticks : 4
+sesame oil : 1773
+cherry juice : 3
+red beans : 68
+smoked kielbasa : 5
+chocolate syrup : 15
+hot Italian sausages : 48
+country style italian bread : 1
+dandelion greens : 8
+spiny lobsters : 1
+trout : 9
+marrow bones : 3
+ruby port : 11
+cultured buttermilk : 4
+fresh mexican cheese : 2
+chicken meat : 55
+roasted bell peppers : 1
+southwest seasoning : 2
+pandanus leaf : 19
+chopped bacon : 3
+chili flakes : 158
+hoagi or roll : 1
+string beans : 15
+Truvía® Baking Blend : 1
+rolls : 88
+medium cheddar cheese : 1
+baking apples : 3
+Meyer lemon juice : 10
+tupelo honey : 1
+balm leaves : 1
+Green Giant™ sliced mushrooms : 1
+Gold Medal Flour : 4
+kamaboko : 4
+fresh onion : 15
+custard : 8
+sazon : 3
+red chili powder : 220
+eggroll wrappers : 3
+veal knuckle : 2
+sugar cane : 5
+salsify : 2
+pastry shell : 23
+orange flavored brandy : 1
+epazote : 43
+chili garlic paste : 14
+chicken livers : 65
+salsa : 963
+traditional italian sauce : 2
+low-fat sharp cheddar cheese : 1
+sack : 2
+powdered garlic : 5
+hanger steak : 10
+old-fashioned oats : 14
+loose leaf black tea : 1
+noodles : 225
+ground sirloin : 65
+besan (flour) : 3
+smoked sweet Spanish paprika : 9
+fresh tomatoes : 148
+fresh basil : 1137
+callaloo : 9
+rainbow trout : 3
+tamales : 4
+ranch dip mix : 3
+light chicken stock : 1
+low-fat cheddar cheese : 1
+idli : 5
+hearts of romaine : 15
+kappa : 1
+cook egg hard : 6
+ground allspice : 364
+orecchiette : 43
+bottled italian dressing : 2
+fresh mushrooms : 272
+black walnut : 2
+dried dillweed : 34
+sesame seeds buns : 1
+bouillon granules : 2
+powdered sugar : 501
+smoked mozzarella : 1
+ground bison : 2
+vine ripened tomatoes : 34
+carnitas : 10
+nigella seeds : 24
+back ribs : 1
+reduced sodium reduced fat cream of mushroom soup : 1
+reduced sodium italian style stewed tomatoes : 1
+salt free seasoning : 2
+salsa verde : 135
+root beer : 1
+ibarra : 2
+Ciabatta rolls : 2
+brewed tea : 3
+rib roast : 4
+tomato chutney : 2
+bitters : 13
+pickle relish : 32
+dates : 58
+chocolate instant pudding : 10
+vanilla instant pudding : 30
+sauce tomato : 2
+loin pork chops : 6
+Potatoes O'Brien : 2
+shaoxing : 9
+pickle spears : 2
+parsley leaves : 60
+langoustines : 1
+cassava : 7
+espresso : 16
+ramps : 11
+strawberry gelatin : 1
+olive oil mayonnaise : 2
+coconut flour : 16
+horseradish root : 3
+alfredo sauce mix : 2
+chicken demi-glace : 4
+tomato sauce low sodium : 1
+maitake mushrooms : 3
+habanero : 16
+carambola : 2
+whole grain thin spaghetti : 1
+prosciutto fat : 1
+dried bonito : 2
+decorating sugars : 9
+finely chopped fresh parsley : 84
+wasabi : 32
+asakusa nori : 1
+low sodium tomato juice : 5
+honey-flavored greek style yogurt : 1
+fresh pineapple : 56
+whole grain roll : 1
+anisette : 3
+cooked quinoa : 28
+baby lima beans : 33
+brewed coffee : 48
+red beets : 11
+pumpkin seeds : 47
+greek-style vinaigrette : 5
+hoagie rolls : 16
+cold water : 506
+chipotle chile powder : 42
+Domino Confectioners Sugar : 1
+chicken tenderloin : 21
+honey : 1299
+farofa : 3
+feet : 4
+V8 Juice : 1
+canned salmon : 1
+fish sauce : 1247
+vanilla beans : 167
+montreal steak seasoning : 2
+garlic flakes : 2
+razor clams : 2
+rib-eye roast : 3
+low fat coleslaw dressing : 1
+batter : 9
+whole baby okra : 1
+diced onions : 242
+cubed pumpkin : 2
+white wine : 367
+acai juice : 1
+pork tenderloin medallions : 1
+sweet soy : 1
+braising steak : 3
+sheep’s milk cheese : 4
+cuban peppers : 12
+ahi tuna steaks : 4
+light agave nectar : 2
+fresh mozzarella balls : 5
+prepared pie crusts : 4
+spanish chorizo : 51
+caesar salad dressing : 13
+large egg whites : 485
+dri oregano leaves, crush : 16
+button mushrooms : 163
+poblano chilies : 33
+diced tomatoes in juice : 27
+lean ground pork : 43
+thyme sprigs : 209
+lapsang souchong : 1
+raw peeled prawns : 1
+asafoetida powder : 33
+hot pepper sauce : 306
+liquorice : 1
+butter cake : 1
+Soy Vay® Hoisin Garlic Marinade & Sauce : 1
+elbow pasta : 6
+orzo : 91
+nonfat mozzarella cheese : 1
+lipton recip secret golden onion soup mix : 1
+frozen pie crust : 3
+asparagus spears : 62
+crust : 28
+Knorr® Beef Bouillon : 1
+less sodium soy sauce : 7
+redcurrant jelly : 1
+cognac : 94
+Johnsonville Hot & Spicy Breakfast Links : 1
+extra sharp cheddar cheese : 51
+white hominy : 69
+dried tagliatelle : 1
+flavoring : 26
+Wish-Bone Italian Dressing : 10
+soft corn tortillas : 7
+curry sauce : 14
+hawaiian sweet rolls : 3
+yellow bean sauce : 6
+asian pear : 44
+sausage casings : 108
+vanilla ice cream : 93
+seeds : 130
+refrigerated bread dough : 1
+low-fat flour tortillas : 3
+Knorr® Pasta Sides™ - Alfredo : 2
+matcha : 1
+40% less sodium taco seasoning : 7
+chipotle chile : 150
+coarse semolina : 3
+gluten-free hoisin sauce : 3
+chocolate ice cream : 5
+perilla : 12
+andouille sausage : 267
+marinara sauce : 229
+pies : 8
+cinnamon graham crackers : 1
+cannelloni shells : 2
+whole wheat bread slices : 2
+osetra caviar : 1
+guajillo chile powder : 3
+triscuits : 2
+yellow heirloom tomatoes : 1
+pepper cheese : 1
+fresh angel hair : 5
+cocoa powder : 60
+boneless skinless turkey breasts : 1
+crushed pineapple : 35
+coca-cola : 12
+soy glaze : 1
+brown cardamom : 40
+veal scallopini : 2
+granola : 11
+corn husks : 93
+wine : 57
+compote : 5
+black forest ham : 3
+potato starch : 59
+ketjap : 1
+ale : 13
+chinese pancakes : 3
+longaniza : 1
+whipped cream cheese : 6
+low sodium chili sauce : 1
+fat-free mayonnaise : 25
+unsalted butter : 2782
+grissini : 4
+absinthe : 1
+seedless watermelon : 8
+hominy grits : 4
+all-purpose flour : 4632
+Braeburn Apple : 2
+empanada : 3
+codfish : 3
+collard leaves : 2
+pudding : 4
+bresaola : 2
+pesto sauce : 27
+brown beech mushrooms : 1
+gumbo file : 8
+korma paste : 2
+smoked salmon : 55
+seafood base : 1
+dried chile peppers : 5
+fryer chickens : 18
+tea cake : 1
+dried fig : 26
+pierogi : 7
+peeled canned low sodium tomatoes : 1
+Hellmann's Dijonnaise Creamy Dijon Mustard : 1
+russet : 9
+Thai chili paste : 11
+pinhead oatmeal : 1
+fat free less sodium beef broth : 19
+candied citron peel : 1
+lemon twists : 1
+(14.5 oz.) diced tomatoes : 3
+vegetable bouillon : 13
+halibut steak : 7
+chateaubriand : 1
+almonds : 194
+hot smoked paprika : 13
+shiso leaves : 8
+hamachi fillets : 1
+cereal flakes : 2
+table cream : 7
+cooked chicken : 296
+leg of veal : 1
+focaccia : 10
+chiffonade : 5
+curry leaf : 4
+pitted olives : 30
+TACO BELL® Thick & Chunky Mild Salsa : 2
+pearl barley : 31
+prune puree : 1
+diced apples : 3
+low fat part skim ricotta chees : 1
+raspberry sherbet : 1
+wish bone ranch dress : 3
+shredded low-fat sharp cheddar : 1
+cream of shrimp soup : 3
+cipollini onions : 2
+barbecued pork : 16
+blue curaçao : 1
+black cod : 5
+gyoza skins : 6
+boneless chuck roast : 23
+round loaf : 5
+vodka : 74
+diced lamb : 5
+kalonji : 6
+anise liqueur : 1
+beef deli roast slice thinli : 4
+vegetable oil : 4385
+dark miso : 2
+whole wheat cereal : 1
+orange bitters : 4
+non fat chicken stock : 2
+italian salad dressing mix : 8
+bread crumbs : 306
+cuttlefish balls : 2
+heirloom tomatoes : 35
+seasoned bread crumbs : 98
+almond paste : 24
+cracker meal : 4
+tri-tip steak : 1
+plum wine : 1
+vegetable broth : 409
+boneless rib eye steaks : 12
+basil leaves : 267
+toasted unsweetened coconut : 2
+asparagus bean : 1
+nonfat dried milk : 1
+veal loin chops : 2
+habanero powder : 1
+seedless cucumber : 50
+pitted date : 49
+manioc flour : 12
+unbleached flour : 8
+boston butt : 5
+Stonefire Italian Artisan Pizza Crust : 2
+multigrain cereal : 1
+mandarin orange juice : 1
+field lettuce : 9
+mango nectar : 2
+frozen crabmeat, thaw and drain : 3
+powdered buttermilk : 3
+chopped cooked ham : 12
+honeycomb tripe : 1
+gluten free barbecue sauce : 1
+condensed reduced fat reduced sodium tomato soup : 2
+korean chile : 3
+fresh parmesan cheese : 286
+stevia extract : 4
+non-dairy margarine : 1
+sesame seed paste : 1
+lowfat plain greekstyl yogurt : 1
+vegan bouillon cubes : 1
+salt free cajun creole seasoning : 1
+sliced turkey : 6
+vegetable stock : 192
+Margherita Pepperoni : 1
+roasted pistachios : 7
+spaghettini : 24
+pork butt roast : 11
+beef bouillon : 32
+snow peas : 183
+lamb shoulder : 84
+pink beans : 5
+mushroom broth : 1
+irish bacon : 7
+okra pods : 27
+Taiwanese bok choy : 1
+lemonade concentrate : 4
+ogura-an : 1
+boneless country pork ribs : 6
+fully cooked luncheon meat : 1
+satsuma juice : 1
+onions : 7972
+lobster : 50
+black pepper : 2627
+togarashi : 13
+wish bone guacamol ranch dress : 1
+short pasta : 7
+anchovies : 52
+morel : 14
+barley miso : 2
+fresh mozzarella : 97
+iceberg : 4
+mesquite seasoning : 2
+shredded pepper jack cheese : 31
+celery tops : 1
+cactus : 1
+baked corn tortilla chips : 1
+flavored syrup : 5
+apricot halves : 27
+large eggs : 2948
+cooking liquid : 5
+yam noodles : 1
+japanese style bread crumbs : 1
+skate : 3
+extra-lean ground beef : 11
+Italian turkey sausage : 54
+balsamic vinegar : 574
+pudding powder : 2
+tomato soup : 11
+shoulder lamb chops : 2
+skinless salmon fillets : 9
+masur dal : 1
+vegetable-filled ravioli : 1
+red serrano peppers : 2
+flat iron steaks : 9
+tea leaves : 3
+fresh thyme : 345
+sweetener : 15
+diced tomatoes with garlic and onion : 9
+cavolo nero : 4
+whole wheat pasta shells : 1
+curry sauce mix : 1
+citric acid powder : 1
+poolish : 1
+scallops : 38
+gelatin sheet : 1
+Crystal Farms® Shredded Cheddar Cheese : 1
+black bass : 3
+ground white pepper : 348
+minced peperoncini : 2
+Nilla Wafers : 10
+gluten-free tamari : 6
+masala : 69
+baby kale : 4
+lemon soda : 1
+kefalotyri : 9
+free-range eggs : 9
+mooli : 1
+candied orange peel : 27
+fresh prawn : 5
+whole grain rotini : 1
+coconut rum : 7
+pork chops : 52
+nuoc nam : 5
+pita rounds : 9
+Italian seasoned panko bread crumbs : 1
+whole wheat penne rigate : 1
+yardlong beans : 22
+kirby cucumbers : 26
+pizza crust mix : 3
+ranch salad dressing mix : 3
+rubbed sage : 51
+toasted pumpkinseeds : 6
+frying oil : 6
+burger style crumbles : 1
+chile powder : 120
+light brown muscavado sugar : 1
+dried mission figs : 2
+gram flour : 33
+cold milk : 22
+saffron : 206
+chopped onion : 1251
+cream cheese spread : 2
+ground cloves : 371
+coarse-grain salt : 2
+pasilla : 5
+dried minced garlic : 4
+potato rolls : 2
+white mushrooms : 60
+duck stock : 2
+calamari : 16
+key lime : 7
+ic pop : 1
+dried tart cherries : 17
+low-fat coconut milk : 8
+Foster Farms boneless skinless chicken breasts : 1
+smoked mackerel : 1
+satsuma orange : 2
+liquid : 60
+lavender honey : 1
+scrod fillets : 2
+green garlic : 6
+tostada shells : 24
+frozen broad beans : 3
+gluten-free oat : 1
+spice cake mix : 3
+ducklings : 2
+white rice : 248
+warm water : 577
+Minute White Rice : 1
+roasting hen : 2
+fatfree lowsodium chicken broth : 12
+frozen lima beans : 4
+peeled prawns : 5
+brown rice spaghetti : 1
+citrus slices : 2
+cream of tartar : 159
+caviar : 13
+cream cheese : 562
+reduced fat firm tofu : 9
+top loin steaks : 2
+veal medallions : 1
+grated romano cheese : 20
+poi : 1
+regular sour cream : 2
+gemelli : 14
+skinless haddock : 1
+pickled onion : 6
+barley flour : 4
+Nakano Seasoned Rice Vinegar : 1
+whitefish : 33
+bean sauce : 17
+plain yogurt : 364
+broccoli stems : 10
+pork sirloin roast : 2
+garlic olive oil : 1
+banana puree : 1
+skinless flounder fillets : 1
+red chile powder : 19
+chocolate-hazelnut spread : 3
+Campbell's Condensed Cream of Chicken Soup : 10
+lamb breast : 2
+salad : 61
+chilegarlic sauce : 13
+dark rye flour : 1
+Spice Islands Oregano : 2
+green bell pepper : 1180
+Scotch whisky : 3
+jambalaya rice mix : 2
+graham cracker crumbs : 37
+whole wheat penne : 6
+coffee extract : 1
+shahi jeera : 20
+chinese mustard : 5
+pot roast : 5
+full fat sour cream : 2
+shortbread cookies : 5
+english breakfast tea : 1
+cockles : 9
+ground turkey : 168
+winesap : 1
+brioche bread : 2
+banana bread : 1
+lo bok : 1
+au jus mix : 2
+banh pho rice noodles : 2
+low-fat natural yogurt : 4
+onion salt : 15
+Tuaca Liqueur : 1
+five spice : 20
+center cut pork roast : 1
+tapioca pearls : 5
+veal : 31
+unflavored gelatin : 108
+33% less sodium cooked deli ham : 1
+fast-rising active dry yeast : 2
+chinese buns : 1
+annatto oil : 1
+bâtarde : 1
+guinea hens : 2
+canton noodles : 3
+rolled oats : 33
+organic cane sugar : 3
+veal cutlets : 21
+frozen petit pois : 2
+mixed nuts : 7
+beef bones : 13
+cream cheese with chives and onion : 2
+table salt : 79
+portuguese rolls : 1
+brown mustard seeds : 57
+beef sausage : 8
+croissants : 9
+ras el hanout : 44
+harissa paste : 21
+hot pepper : 68
+ancho : 11
+chopped cooked meat : 3
+condensed cheddar cheese soup : 6
+snails : 7
+cooked meatballs : 7
+andouille chicken sausage : 8
+Campbell's Condensed Cheddar Cheese Soup : 6
+coriander seeds : 395
+dumpling skins : 2
+flowering chinese chives : 1
+fresh tomato salsa : 13
+fava beans : 27
+canadian bacon : 22
+peasant bread : 9
+dried apple : 7
+maldon sea salt : 8
+mixed vegetables : 22
+fennel fronds : 4
+gouda : 5
+condiments : 10
+hand : 16
+queso asadero : 9
+whole wheat dough : 2
+skate wing : 2
+Knorr Chicken Stock Cubes : 1
+Best Foods® Real Mayonnaise : 2
+light pancake syrup : 10
+granulated tapioca : 1
+red jalapeno peppers : 4
+sliced black olives : 161
+cabbage lettuce : 1
+green plantains : 4
+chicken consomme : 1
+fresh raspberries : 92
+bamboo shoots : 137
+tandoori spices : 19
+cantal : 3
+carp : 2
+green apples : 8
+turmeric root : 4
+dri fruit tropic : 1
+cinnamon : 696
+perch fillets : 1
+dashi kombu : 17
+dried pear : 5
+piri-piri sauce : 2
+madeleine : 1
+bottom round roast : 2
+refrigerated fettuccine : 9
+beef demi-glace : 4
+cool whip : 12
+turkey meatballs : 1
+laurel leaves : 4
+salt : 18049
+goose fat : 4
+beef liver : 4
+tomato purée : 217
+muenster : 2
+rendered bacon fat : 7
+legumes : 1
+wondra : 1
+root vegetables : 10
+monterey jack : 235
+pork neck : 9
+carbonated beverages : 1
+dried coconut flakes : 2
+Italian bread : 118
+reduced sodium kidney beans : 1
+slab bacon : 10
+english breakfast tea leaves : 1
+low sodium black beans : 6
+Thai chili garlic sauce : 3
+wheels : 10
+ground rosemary : 5
+vegetable bouillon cube : 2
+chrysanthemum leaves : 2
+cardoons : 1
+white peaches : 6
+chinese cabbage : 59
+clams, well scrub : 6
+olive oil flavored cooking spray : 47
+chaat masala : 45
+black mushrooms : 1
+tobiko : 2
+hash brown : 8
+onion flakes : 20
+jasmine rice : 152
+cauliflower flowerets : 3
+seitan : 5
+sweet pickle : 11
+all purpose seasoning : 4
+pickled garlic : 2
+dry bread crumbs : 287
+lemon lime beverage : 1
+keema : 2
+cayenne pepper sauce : 4
+arborio rice : 292
+smoked turkey breast : 5
+fresh lime juice : 1368
+graham crackers : 16
+white corn : 16
+rub : 17
+dried salted codfish : 20
+grit quick : 8
+thin spaghetti : 13
+corn starch : 1757
+Ibarra Chocolate : 1
+fresh cod : 2
+saki : 1
+chocolate shavings : 18
+hot bean paste : 9
+Heinz Ketchup : 1
+Chartreuse Liqueur : 1
+baby spinach leaves : 103
+large curd cottage cheese : 5
+soda : 21
+crackers : 38
+smoked bratwurst : 1
+kahlua : 4
+brown lentils : 29
+membrillo : 1
+minced meat : 4
+chicken flavor stuffing mix : 2
+cream ic peach : 2
+head on shrimp : 4
+sashimi grade tuna : 2
+KRAFT Shredded Cheddar Cheese : 4
+chardonnay : 10
+Mae Ploy Sweet Chili Sauce : 1
+cake : 44
+sharp cheddar cheese : 154
+pepper flakes : 57
+mochiko : 9
+frozen peas and carrots : 20
+veal escalopes : 1
+sea bream : 1
+taco seasoning reduced sodium : 7
+sweet white miso paste : 1
+lemongrass : 364
+lemon cake mix : 1
+pepperoni slices : 36
+egg roll skins : 1
+butter pecan cake mix : 5
+Mission Corn Tortillas : 1
+boneless beef round steak : 1
+adobo sauce : 94
+golden caster sugar : 13
+udon : 48
+crema mexican : 29
+milk : 2263
+beef drippings : 12
+peppercorns : 144
+low-fat parmesan cheese : 1
+baobab fruit powder : 1
+moonshine : 1
+vanilla almondmilk : 1
+fresh yeast : 4
+soppressata : 17
+almond oil : 1
+reduced sodium chicken bouillon granules : 1
+chuck steaks : 11
+coarse sugar : 4
+zinfandel : 10
+Wolf Brand Chili : 2
+bacon rind : 1
+chilli bean sauce : 2
+white radish : 6
+citrus juice : 2
+taco seasoning : 271
+cucumber : 768
+grained : 3
+apple cider : 42
+dried pasta : 14
+wildflower honey : 3
+Bertolli® Classico Olive Oil : 16
+2% low fat cheddar chees : 1
+banh hoi : 1
+seafood : 12
+bean threads : 36
+pitted kalamata olives : 204
+idaho potatoes : 15
+bawang goreng : 21
+sobrasada : 1
+german mustard : 1
+2% milk shredded mozzarella cheese : 1
+reduced sodium condensed cream of chicken soup : 1
+pork stew meat : 8
+frozen chopped spinach, thawed and squeezed dry : 21
+five-spice powder : 20
+gnocchi : 41
+red vinegar white white, wine, : 1
+whole wheat thin spaghetti : 4
+orange blossom extract : 1
+frozen whip topping, thaw : 6
+cavatappi : 11
+caster sugar : 130
+goat milk feta : 1
+roquefort cheese : 12
+cortland apples : 1
+crumbled gorgonzola : 37
+sour mix : 2
+king prawns : 9
+seville orange juice : 1
+peach sorbet : 1
+Cara Cara orange : 1
+whole wheat rotini pasta : 2
+Pillsbury Thin Pizza Crust : 1
+white sandwich bread : 46
+base : 37
+garbanzo beans : 148
+polenta corn meal : 3
+white rice flour : 17
+Pace Chunky Salsa : 8
+champagne grapes : 1
+gluten-free pasta : 2
+turkey gravy : 1
+Jack Daniels Whiskey : 1
+seasoning rub : 1
+dried cloud ears : 1
+pasta shell small : 6
+pecorino romano cheese : 157
+Niçoise olives : 27
+whole wheat linguine : 5
+wonton wrappers : 158
+reduced sodium canned chicken broth : 1
+america : 1
+baby broccoli : 2
+raisin bread : 4
+frozen blueberries : 18
+stick butter : 1
+shoulder meat : 2
+lemon wedge : 225
+gluten free cornmeal : 2
+salmon sashimi : 2
+top round roast : 3
+pearl couscous : 6
+whole almonds : 18
+dried apricot : 133
+serrano ham : 28
+vanilla : 311
+dried shiitake mushrooms : 124
+muenster cheese : 7
+Knox unflavored gelatin : 2
+black lentil : 6
+baby back ribs : 18
+low-fat plain greek yogurt : 1
+pistachios : 64
+italian plum tomatoes : 34
+extra fine granulated sugar : 3
+steamed brown rice : 3
+parmigiano reggiano cheese : 353
+red vermouth : 5
+baby eggplants : 6
+fresh ginger root : 338
+miswa : 1
+boneless chop pork : 35
+low sodium taco seasoning : 8
+shucked oysters : 27
+whole crab : 1
+pear juice : 6
+rice noodles : 263
+thick-cut bacon : 56
+whole allspice : 26
+self-rising cornmeal : 38
+Earth Balance Buttery Spread : 1
+shrimp chips : 1
+40% less sodium taco seasoning mix : 5
+chocolate cookie crumbs : 1
+quail eggs : 7
+white grape juice : 1
+white rice vinegar : 9
+Asian chili sauce : 3
+olive oil spray : 21
+panko breadcrumbs : 144
+flower petals : 1
+zesty italian dressing : 17
+Bordelaise sauce : 1
+peach purée : 1
+romaine lettuce : 270
+angel hair : 91
+Oscar Mayer Cotto Salami : 1
+yuzu juice : 3
+lamb strips : 1
+potato gnocchi : 20
+gravy master : 2
+wide egg noodles : 9
+Budweiser : 1
+fillet of beef : 1
+collards : 14
+low sodium vegetable broth : 25
+applesauce : 21
+pork rib chops : 2
+fruit filling : 2
+lentilles du puy : 3
+Jameson Irish Whiskey : 3
+pumpernickel : 1
+boneless sirloin : 3
+sultana : 17
+Chinese sesame paste : 5
+Domino Light Brown Sugar : 3
+chopped potatoes : 2
+kiwi : 26
+low-fat yogurt : 12
+veal loin : 1
+chocolate milk mix : 1
+sweet chocolate : 3
+beefsteak tomatoes : 24
+habanero chile : 20
+sandwich rolls : 11
+vindaloo paste : 1
+morcilla : 1
+egg substitute : 72
+raspberries : 81
+bread rolls : 4
+amaretto liqueur : 8
+Kraft Miracle Whip Dressing : 5
+rosemary leaves : 21
+Campbell's Condensed Tomato Soup : 7
+fettucine : 159
+cornmeal : 368
+gluten-free baking powder : 1
+yellow crookneck squash : 9
+red grapefruit juice : 1
+soursop : 2
+splenda granular : 1
+Shaoxing wine : 264
+low sodium diced tomatoes : 1
+conger eel : 1
+dumpling wrappers : 30
+chinese black vinegar : 43
+Spice Islands Ground Cumin Seed : 1
+beef smoked sausage : 2
+nutritional yeast flakes : 2
+bean soup : 3
+baby zucchini : 11
+snow pea shoots : 3
+spanish onion : 47
+instant couscous : 3
+lime : 1439
+powdered sugar icing : 1
+dark sesame oil : 201
+large snails : 1
+country ham : 48
+mushroom powder : 2
+Crystal Farms Shredded Gouda Cheese : 1
+crab claws : 2
+pangasius : 1
+toasted cashews : 6
+raw cane sugar : 5
+sweet rice wine : 4
+brown sugar : 1503
+Good Seasons Italian Dressing Mix : 3
+oloroso sherry : 5
+fish : 91
+manicotti pasta : 4
+longan : 1
+chèvre : 9
+lime wedges : 482
+chicken soup base : 7
+kale : 157
+pisco brandy : 1
+squash : 32
+harissa : 42
+ume plum vinegar : 5
+fat free milk : 134
+Johnsonville® Mild Italian Ground Sausage : 2
+okra : 268
+nonfat ricotta cheese : 35
+adobo seasoning : 10
+basil : 282
+fat-free parmesan cheese : 1
+Soy Vay® Veri Veri Teriyaki® Marinade & Sauce : 1
+low-fat cheese : 3
+rich chicken stock : 5
+frozen lemonade concentrate, thawed and undiluted : 1
+catfish : 19
+redfish : 2
+gyoza : 13
+water chestnuts, drained and chopped : 10
+chocolate wafer cookies : 3
+crème de menthe : 2
+ear of corn : 40
+goya sazon : 2
+winter melon : 5
+bacon grease : 23
+herb vinegar : 3
+milk chocolate pieces : 1
+minute rice : 6
+strip loin : 1
+herb cheese : 1
+condensed chicken broth : 11
+duck bones : 1
+chunky peanut butter : 30
+green olives : 177
+dried scallops : 6
+collard green leaves : 5
+ground walnuts : 10
+spearmint : 6
+kabuli channa : 2
+Japanese mountain yam : 3
+chunky pasta sauce : 7
+grill seasoning : 5
+Yoplait® Greek 2% caramel yogurt : 1
+taco shells : 63
+yogurt cheese : 2
+whole grain baguette : 1
+candlenuts : 3
+curing salt : 3
+mentaiko : 1
+long beans : 18
+khoa : 9
+whole wheat pita bread rounds : 1
+cherry preserves : 7
+fire roasted diced tomatoes : 16
+chile verde : 2
+fowl : 1
+cooked meat : 5
+chicken wings : 133
+Crisco Pure Vegetable Oil : 1
+pink lentil : 1
+peeled fresh ginger : 582
+toasted nuts : 1
+rice vermicelli : 93
+unsweetened baking chocolate : 1
+Royal Baking Powder : 1
+egg roll wrappers : 57
+fry mix : 4
+(10 oz.) frozen chopped spinach, thawed and squeezed dry : 2
+palm oil : 12
+pecan meal : 1
+bologna : 2
+seasoning mix : 7
+cornstarch noodles : 1
+aioli : 10
+spicy sausage : 10
+hominy : 77
+veal tongue : 2
+fingerling potatoes : 20
+Godiva Chocolate Liqueur : 2
+ground hazelnuts : 1
+guava paste : 1
+KRAFT Zesty Lime Vinaigrette Dressing : 1
+Tokyo negi : 3
+Land O Lakes® Butter : 2
+celery salt : 52
+white tuna in water : 7
+fresh oregano : 394
+mochi : 2
+raclette : 2
+low-fat sour cream : 62
+buttermilk cornbread : 5
+dried peach : 2
+crusty bread : 42
+twists : 5
+roasted red peppers : 239
+dried black mushrooms : 9
+albacore tuna in water : 7
+arrow root : 1
+browning : 20
+coconut syrup : 1
+crumbs : 20
+blood orange : 12
+large egg yolks : 575
+sirloin tip roast : 5
+Barilla Oven-Ready Lasagne : 2
+beef shin : 1
+lemon dressing : 2
+McCormick Ground Ginger : 2
+grapes : 17
+ground peanut : 4
+salad leaves : 3
+porcini powder : 2
+bihon : 2
+grilled chicken breasts : 5
+Truvía® natural sweetener : 1
+lipton green tea bag : 1
+za'atar : 2
+mung bean noodles : 6
+nonfat plain greek yogurt : 17
+sandwich steak : 1
+dark brown sugar : 319
+whole cranberry sauce : 5
+crushed saltines : 1
+low sodium low fat vegetable broth : 1
+chile de arbol : 39
+alcohol : 2
+crushed cornflakes : 4
+ground pork sausage : 2
+pork sirloin : 2
+Progresso Artichoke Hearts : 1
+hillshire farms low fat sausage : 1
+cheese soup : 10
+egg roll wraps : 4
+bacon fat : 23
+capicola : 6
+frozen fruit : 1
+chocolate covered english toffee : 3
+pork heart : 1
+cumberland sausage : 1
+tonic water : 1
+chipotle paste : 7
+pork tail : 2
+ziti : 29
+skinless mahi mahi fillets : 1
+mandarin pancakes : 1
+orange segments : 3
+no-salt-added black beans : 18
+Poire Williams : 2
+Bartlett Pear : 2
+dark corn syrup : 41
+balsamic vinaigrette salad dressing : 2
+whole wheat spaghetti noodles : 2
+malt powder : 1
+raspberry liqueur : 7
+Johnsonville Andouille Fully Cooked Sausage : 1
+extra lean ground beef : 31
+any : 2
+chocolate liqueur : 1
+sake : 345
+mirin : 503
+Quorn Chik''n Tenders : 1
+lean minced beef : 11
+iced tea : 2
+chinese barbecue sauce : 4
+heavy whipping cream : 216
+yellow rice : 8
+crushed cheese crackers : 1
+prepared pizza crust : 4
+pesto : 118
+sorghum flour : 3
+salted seaweed : 1
+capellini : 12
+garlic oil : 9
+cajeta : 4
+sprinkles : 40
+knorr homestyl stock   chicken : 3
+apple pie filling : 6
+pumpkinseed kernels : 3
+pork : 300
+shrimp : 912
+cinnamon candy canes : 1
+oliv pit ripe : 3
+fines herbes : 6
+mozzarella balls : 4
+low sodium jarred chicken soup base : 1
+sturgeon : 1
+bittersweet chocolate chips : 9
+OREO® Cookies : 7
+octopuses : 11
+cornichons : 33
+grassfed beef : 2
+diced yellow onion : 19
+baking spray : 5
+irish cream liqueur : 22
+pike : 1
+worcestershire sauce : 688
+turbinado : 50
+lower sodium chicken broth : 71
+boneless duck breast : 2
+Herdez Salsa Casera : 5
+shrimp paste : 56
+sage : 54
+Old El Paso Green Chiles : 1
+havarti cheese : 8
+low-fat mozzarella cheese : 10
+garbonzo bean : 1
+salted mixed nuts : 2
+california chile : 4
+accompaniment : 1
+stevia : 14
+bird chile : 60
+breadfruit : 2
+bacon, crisp-cooked and crumbled : 3
+garam masala : 925
+unseasoned breadcrumbs : 4
+trout caviar : 1
+natural yogurt : 18
+white miso : 71
+shiro miso : 11
+filé : 1
+Nutella : 10
+lemon rind : 72
+wish-bone light country italian dressing : 1
+brown chicken stock : 3
+caramel flavored syrup : 1
+skinless chicken fillets : 1
+dill tips : 15
+hot chili paste : 7
+apple butter : 6
+McCormick Poppy Seed : 1
+Doritos Tortilla Chips : 1
+bulgur wheat : 6
+date sugar : 1
+genoise : 1
+small red potato : 79
+chicken breast strips : 5
+sooji : 5
+liqueur : 41
+distilled malt vinegar : 1
+slider rolls : 1
+alphabet pasta : 2
+puffed rice : 4
+fine grind white cornmeal : 1
+blue crabs : 12
+head cauliflower : 3
+meringue nests : 4
+sliced olives : 11
+2% low-fat cottage cheese : 6
+fresh corn : 42
+crescent dinner rolls : 2
+large free range egg : 14
+fresh herbs : 52
+chocolate baking bar : 3
+savoy spinach : 1
+sliced green onions : 472
+multi-grain penne pasta : 1
+grilled chicken : 5
+Crystal Farms Reduced Fat Shredded Marble Jack Cheese : 1
+bone in : 1
+sauvignon blanc : 5
+sponge : 6
+frozen raspberries : 8
+chuck : 67
+friselle : 1
+duck fat : 15
+mustard greens : 51
+turkey breast deli meat : 2
+mung bean sprouts : 85
+toast points : 2
+turkey legs : 9
+nut meal : 1
+reduced fat coconut milk : 17
+asafetida (powder) : 2
+white quinoa : 1
+venison steaks : 1
+low moisture mozzarella : 5
+riblets : 1
+pasta shapes : 2
+saba : 1
+white cornmeal : 85
+muscadine grapes : 2
+abalone : 2
+elderflower cordial : 1
+flax seeds : 4
+maple syrup : 110
+ginger juice : 10
+avocado dressing : 1
+demerara sugar : 11
+smoked pork neck bones : 3
+scrod : 1
+sauerkraut juice : 1
+oats : 15
+confit duck leg : 9
+roast red peppers, drain : 46
+toasted wheat germ : 7
+sweet bean paste : 2
+mild curry paste : 6
+KNUDSEN 2% Milkfat Low Fat Cottage Cheese : 1
+small pasta : 8
+chili paste with garlic : 10
+potato bread : 3
+fresh orange : 3
+medjool date : 23
+rose essence : 5
+coconut milk powder : 2
+huitlacoche : 2
+cajun seasoning mix : 2
+tandoori seasoning : 5
+less sodium fat free chicken broth : 1
+low fat mozzarella : 11
+grenadine syrup : 7
+reduced sodium refried beans : 1
+ratatouille : 1
+tomate verde : 1
+italian pork sausage : 7
+boneless chicken breast halves : 37
+low-fat shredded cheddar cheese : 2
+TABASCO® Chipotle Pepper Sauce : 1
+crema : 36
+flowering garlic chives : 1
+lean ground turkey : 26
+chilean sea bass fillets : 2
+red apples : 5
+crushed pineapples in juice : 10
+gluten free blend : 2
+Hellmann''s Light Mayonnaise : 2
+long green pepper : 1
+green grape : 7
+vegan coffee creamer : 1
+reduced fat alfredo sauce : 4
+Gourmet Garden Parsley : 1
+nonhydrogenated margarine : 1
+hamburger buns : 54
+sweet biscuit crumbs : 1
+smoked streaky bacon : 4
+meat cuts : 2
+squash seeds : 1
+bread machine yeast : 5
+sweet sherry : 6
+brown rice penne : 1
+tortillas : 222
+Castelvetrano olives : 1
+standing rib roast : 1
+tomatoes on the vine : 2
+cabbage leaves : 12
+nutmeg : 237
+smoked cheddar cheese : 7
+adzuki beans : 5
+food gel : 1
+fat free cream of mushroom soup : 1
+bean dip : 5
+calamari steak : 1
+shredded carrots : 156
+crushed peppercorn : 1
+fermented bean paste : 2
+apricot jelly : 1
+fat free yogurt : 70
+champagne : 28
+bacon salt : 2
+organic chicken : 9
+promise buttery spread : 5
+pappardelle pasta : 7
+crème de framboise : 1
+lime juice : 1072
+fryers : 1
+long green chilies : 1
+hearts of palm : 19
+poundcake : 1
+frozen mashed potatoes : 1
+puff pastry sheets : 9
+lime slices : 51
+apple brandy : 4
+king crab : 1
+Pillsbury™ Crescent Recipe Creations® refrigerated seamless dough sheet : 1
+smoked turkey drumstick : 1
+hot chili : 19
+low-fat goat cheese : 2
+Flora pro.activ : 1
+whole milk yoghurt : 28
+turkey mince : 1
+lily buds : 8
+pork bones : 7
+preshred low fat mozzarella chees : 1
+peach juice : 2
+abura age : 4
+roti : 2
+mie : 3
+ciabatta loaf : 1
+grated coconut : 74
+Jose Cuervo : 1
+spaghetti squash : 36
+Kitchen Bouquet : 2
+chorizo : 68
+loin pork roast : 24
+shrimp and crab boil seasoning : 9
+pastry flour : 5
+ground coffee : 3
+cointreau liqueur : 2
+scape pesto : 1
+garden cress : 1
+ladyfingers : 47
+poppy seed filling : 1
+chicken wingettes : 2
+dried beef : 4
+quinoa : 116
+shungiku : 2
+unsalted pistachios : 13
+spaghetti, cook and drain : 8
+pea pods : 12
+lime zest : 137
+greek seasoning mix : 1
+barilla : 4
+miso paste : 73
+roquefort : 2
+medium eggs : 24
+fresh tofu : 2
+light molasses : 20
+delicata squash : 1
+prepar pesto : 20
+mackerel : 5
+perciatelli : 7
+blackberries : 91
+pure vanilla extract : 169
+strip loin steak : 1
+Philadelphia Light Cream Cheese : 3
+kale leaves : 19
+boned duck breast halves : 2
+skinless snapper fillets : 1
+rabbit : 24
+extra lean minced beef : 1
+sambal olek : 4
+empanada dough : 3
+cilantro pesto : 1
+filet mignon : 11
+ragu : 8
+rome apples : 5
+genmai miso : 1
+peeled tomatoes : 73
+spanish paprika : 33
+tea bags : 54
+crushed ice : 50
+DeLallo Extra Virgin Olive Oil : 1
+fish balls : 6
+flavored wine : 1
+gelatin : 20
+Kraft Slim Cut Mozzarella Cheese Slices : 1
+smoked sea salt : 6
+dried mint flakes : 31
+wheat flour : 37
+vin santo : 7
+flavored rice mix : 2
+boar : 5
+greek seasoning : 43
+medium curry powder : 7
+buffalo mozarella : 2
+pork ribs : 30
+ragu old world style pasta sauc : 18
+goat s milk cheese : 1
+french dressing : 8
+mulato chiles : 11
+vegetables : 197
+corn kernel whole : 37
+thai basil : 178
+self raising flour : 6
+bourbon whiskey : 199
+garlic bulb : 14
+Wish-Bone Light Italian Dressing : 1
+Old El Paso Taco Seasoning Mix : 2
+low-fat soy milk : 1
+new york strip steaks : 19
+walnut oil : 14
+powdered vanilla pudding mix : 3
+fresh lemon juice : 1679
+white cheese : 7
+sherry : 79
+ground lamb : 136
+hot chocolate mix : 2
+black : 6
+striped bass : 8
+white bread crumbs : 1
+lamb kidneys : 1
+Herdez Salsa Verde : 6
+ox tongue : 2
+chinese sausage : 27
+mantou : 1
+canned chipotles : 2
+feta cheese : 268
+pigeon peas : 11
+ginseng : 3
+shrimp meat : 2
+cooked italian meatballs : 2
+peppermint : 2
+dried pinto beans : 31
+mullet : 3
+dri basil leaves, crush : 2
+ranch-style seasoning : 1
+dried lavender : 4
+large garlic cloves : 873
+hot pork sausage : 2
+fillet medallions : 1
+millet flour : 3
+veggie crumbles : 3
+sage leaves : 114
+harissa sauce : 6
+cream of mushroom soup : 38
+low-fat soft goat cheese : 1
+melted butter : 276
+sago pearls : 2
+light rum : 14
+bird pepper : 1
+squabs : 4
+nonstick spray : 50
+bone in chicken thighs : 37
+light cream : 46
+fettuccine pasta : 30
+Azteca Flour Tortillas : 1
+fresh parsley : 1604
+chicken breast fillets : 7
+bacon : 620
+key lime juice : 31
+Knudsen Sour Cream : 1
+marjoram leaves : 3
+soft-shell clams : 1
+hoop cheese : 2
+ginger purée : 3
+paprika paste : 1
+maui onion : 3
+tomatoes with juice : 86
+green soybeans : 1
+veal demi-glace : 9
+arhar dal : 3
+chocolate frosting : 1
+yukon gold : 7
+cream of tomato soup : 1
+char siu : 8
+lavender flowers : 1
+deviled ham : 1
+baked pita chips : 1
+solid pack pumpkin : 14
+starchy potatoes : 5
+dried oysters : 1
+chicory : 2
+oyster sauce : 455
+baby corn : 37
+thai noodles : 10
+sunflower kernels : 1
+savoy cabbage : 55
+San Marzano Crushed Tomatoes : 1
+pineapple syrup : 1
+low sodium canned chicken broth : 1
+char fillets : 2
+asafoetida : 73
+Tuttorosso Diced Tomatoes : 1
+chocolate morsels : 21
+poppy seeds : 70
+mild Italian sausage : 18
+large sausage casing : 1
+low-fat marinara sauce : 3
+gluten-free broth : 1
+Mexican beer : 30
+ground fennel : 19
+hots : 1
+rock cornish game hens : 1
+evaporated skim milk : 16
+southern comfort : 6
+vanilla flavoring : 4
+miso sesame grilling sauce : 1
+elbow macaroni : 90
+plum jam : 1
+Hidden Valley® Original Ranch® Light Dressing : 2
+branzino : 7
+extra virgin coconut oil : 4
+Bertolli® Arrabbiata Sauce : 1
+seasoned croutons : 1
+meat sauce : 8
+chinkiang vinegar : 22
+store bought low sodium vegetable stock : 1
+rib eye steaks : 46
+syrup : 31
+chicken breast halves : 152
+jamaican jerk marinade : 1
+dried chives : 6
+1% low-fat cottage cheese : 12
+brown gravy : 2
+red curry paste : 122
+garlic shoots : 4
+robiola : 2
+dried mango : 1
+fresh masa : 2
+instant butterscotch pudding mix : 1
+ricotta cheese : 352
+madagascar bourbon vanilla extract : 1
+tri-tip roast : 6
+spelt : 6
+caraway : 1
+frozen vegetables : 7
+chili oil : 109
+reduced-fat cheese : 4
+chapati flour : 8
+orange soda : 1
+reduced sodium soy sauce : 157
+mint syrup : 1
+pasta wagon wheel : 1
+sherry wine vinegar : 41
+spices : 171
+new potatoes : 45
+instant tea powder : 1
+red lentils : 110
+karo syrup : 2
+low-fat vegetable primavera spaghetti sauce : 1
+graham cracker pie crust : 2
+rotisserie chicken : 66
+recipe crumbles : 3
+curry leaves : 219
+fresh dates : 1
+candied chestnuts : 1
+toasted sesame seeds : 294
+cubed beef : 7
+sugar : 6434
+ham hock : 44
+garlic juice : 3
+herb dressing : 1
+sambal ulek : 52
+chili pepper : 126
+whole wheat penne pasta : 4
+Imperial Sugar Light Brown Sugar : 1
+italian pizza crust : 1
+watermelon seeds : 1
+melon : 8
+seasoned black beans : 4
+cake mix or white yellow : 1
+ginger piece : 7
+vegan margarine : 6
+sofrito : 5
+dried wood ear mushrooms : 6
+dandelion : 1
+chinese cinnamon : 2
+roasted almonds : 5
+Jell-O Gelatin : 8
+konnyaku : 3
+topside steak : 1
+tostitos : 2
+pita loaves : 5
+kinchay : 3
+shredded extra sharp cheddar cheese : 22
+flavored vodka : 3
+low-fat turkey kielbasa : 1
+hazelnut flour : 1
+frozen cod fillets : 2
+portobello caps : 7
+filet : 34
+sweet pickle juice : 1
+chicken thigh fillets : 20
+trout fillet : 13
+ripe olives : 92
+conch : 2
+large tomato : 5
+dry yeast : 126
+sweet bean sauce : 4
+umeboshi : 3
+tamarind juice : 16
+low fat low sodium chicken broth : 4
+Chinese rose wine : 5
+beaujolais : 2
+mitsuba : 6
+sausage meat : 6
+cashew butter : 8
+red cabbage : 134
+sourdough baguette : 11
+juice concentrate : 4
+shredded colby : 6
+frozen sweet corn : 10
+triple sec : 35
+light corn syrup : 159
+whole wheat rigatoni : 3
+stew meat : 10
+baby portobello mushrooms : 15
+cherry peppers : 6
+pork lard : 8
+ceci bean : 1
+papalo : 2
+bacon slices : 212
+scallions : 1891
+grapeseed oil : 79
+brewed espresso : 16
+ground ginger : 678
+dhal : 11
+crab sticks : 1
+sweet italian sausag links, cut into : 4
+gluten flour : 1
+hungarian paprika : 24
+seaweed : 57
+oven-ready lasagna noodles : 45
+hot cherry pepper : 6
+cilantro sprigs : 215
+soybean sprouts : 20
+sugar cookie dough : 2
+mcintosh apples : 3
+unagi : 3
+chuck tender : 1
+pure olive oil : 10
+pork shoulder : 135
+brown butter : 2
+culantro : 2
+condensed cream : 2
+pork loin rib chops : 1
+white frostings : 4
+coconut milk : 854
+flat leaf parsley : 1094
+pickled beets : 6
+cold-smoked salmon : 1
+broccoli slaw : 9
+pineapple rings : 4
+filo : 2
+bagel chips : 1
+muffin mix : 4
+Jif Creamy Peanut Butter : 2
+cubed mango : 1
+unsalted beef stock : 1
+lacinato kale : 10
+cassava root flour : 1
+capon : 2
+poblano chiles : 155
+pecans : 144
+whipped cream : 103
+jamon serrano : 1
+kasu : 2
+banana flower : 1
+small pearl tapioca : 3
+bouillon powder : 2
+kumquats in syrup : 1
+flank steak : 258
+arctic char : 1
+roma tomatoes : 227
+bone-in pork chops : 15
+cantaloupe : 24
+Challenge Butter : 1
+fat free whipped topping : 1
+burdock : 3
+walnuts : 114
+Johnsonville Andouille : 6
+soft taco size flour tortillas : 5
+pancake mix : 5
+mini phyllo dough shells : 4
+fat-free refried beans : 13
+frozen orange juice concentrate : 22
+refined sugar : 2
+uncook medium shrimp, peel and devein : 19
+light cream cheese : 30
+poultry : 3
+toasted walnuts : 25
+paratha : 2
+veal scallops : 10
+anise powder : 2
+sour salt : 1
+extra large eggs : 32
+italian loaf : 4
+brown mushroom : 4
+Greek feta : 3
+steak sauce : 14
+stuffing mix : 8
+salt water : 2
+ground oregano : 16
+wish-bone light asian sesame ginger vinaigrette dressing : 1
+broiler-fryer chicken : 8
+broccolini : 22
+organic chicken broth : 9
+whole wheat fusilli : 1
+uncooked ziti : 6
+allspice : 129
+Mrs. Dash : 4
+center-cut salmon fillet : 2
+low-fat vanilla ice cream : 1
+foie gras : 12
+sea scallops : 114
+navy beans : 22
+zest : 10
+powdered egg whites : 1
+almond milk : 22
+natural peanut butter : 18
+low-fat cheddar : 2
+roast turkey : 10
+low sodium chicken stock : 40
+mozzarella string cheese : 1
+pancake : 7
+fennel : 77
+chop green chilies, undrain : 5
+country gravy : 1
+canned snails : 3
+smoked trout : 4
+prepared pasta sauce : 6
+jaggery : 40
+turkey kielbasa : 18
+meal : 3
+pecan pie : 1
+habanero pepper : 31
+lamb chops : 8
+parmagiano reggiano : 13
+manouri : 1
+beef stew seasoning mix : 1
+ricotta salata : 26
+cooking sherry : 18
+bulk italian sausag : 21
+clementine sections : 1
+refrigerated piecrusts : 71
+low fat graham cracker crumbs : 1
+unsalted pumpkinseed kernels : 3
+Pepperidge Farm Puff Pastry Sheets : 1
+radicchio leaves : 3
+diced celery : 86
+whey : 4
+chioggia : 1
+nori : 96
+nopales : 21
+fresh curry : 2
+szechwan peppercorns : 142
+Himalayan salt : 11
+grated Gruyère cheese : 61
+dried parsley : 169
+whole wheat crackers : 1
+7 Up : 4
+whole wheat seasoned breadcrumbs : 1
+ground sumac : 2
+Massaman curry paste : 6
+dried tomatoes : 2
+boneless beef sirloin steak : 2
+cardamom pods : 154
+taco meat : 4
+praline topping : 1
+hard cheese : 1
+butter extract : 4
+baby artichokes : 2
+Bob Evans Italian Sausage : 1
+chili bean sauce : 17
+stuffing : 17
+finger chili : 2
+bhaji : 2
+karashi : 2
+dry rub : 6
+casings : 6
+chili : 187
+swede : 2
+tortelloni : 1
+strawberry jam : 6
+paella rice : 4
+paste tomato : 1
+vanilla extract : 1298
+gold tequila : 9
+bulb : 5
+snip fresh dill : 1
+frozen limeade : 7
+cream yogurt : 1
+kirsch : 17
+whipping cream : 619
+unsweetened applesauce : 4
+Angostura bitters : 13
+marzipan : 7
+instant pudding mix : 2
+black peppercorns : 453
+flavored oil : 10
+shredded lettuce : 175
+tuna : 44
+long grain white rice : 277
+firm silken tofu : 9
+foie gras terrine : 2
+tapioca : 5
+shredded low-fat mozzarella cheese : 3
+mussels : 175
+chinese rice wine : 131
+whipped topping : 39
+swanson chicken broth : 3
+chipped beef : 1
+jimmies : 1
+corn flakes : 7
+buckwheat soba noodles : 6
+canola oil cooking spray : 2
+apple jelly : 6
+rice pilaf : 5
+vegetable oil spray : 84
+quickcooking grits : 86
+boneless skinless chicken : 28
+fresh udon : 10
+dried kelp : 9
+reduced fat cream of mushroom soup : 1
+extract : 15
+tart filling : 1
+sweet italian sausage : 78
+ground sichuan pepper : 17
+BACARDI® Superior : 1
+sichuan peppercorn oil : 1
+thyme sprig : 3
+small yellow onion : 2
+cake yeast : 3
+gluten free chicken broth : 1
+Vietnamese coriander : 21
+uncooked vermicelli : 5
+low-fat plain yogurt : 48
+whole wheat flour : 179
+hatcho miso : 4
+dried shrimp : 74
+mojo marinade : 1
+raki : 1
+light red kidney beans : 5
+other vegetables : 5
+lasagna noodles, cooked and drained : 26
+provolone cheese : 165
+thousand island dressing : 3
+gingersnap : 4
+roasted unsalted cashews : 3
+eel : 2
+yellow peppers : 51
+pimento stuffed olives : 23
+apple puree : 1
+peach salsa : 1
+lime peel : 8
+low sodium low fat pasta sauce : 1
+soy chorizo : 2
+buffalo mozzarella : 4
+baton : 7
+fish stock : 59
+lamb neck fillets : 1
+black sesame seeds : 46
+Japanese soy sauce : 29
+bread mix : 8
+unsweetened cocoa powder : 266
+min : 14
+red sockeye : 2
+Knorr Chicken Flavor Bouillon : 4
+flan : 2
+cardamon : 16
+amber : 2
+Irish whiskey : 31
+vanilla pudding : 5
+dillweed : 2
+sanding sugar : 9
+crème de cassis : 5
+andouille sausage links : 8
+grated horseradish : 4
+meat-filled tortellini : 1
+arepa flour : 1
+wagon wheels : 1
+Gourmet Garden Oregano : 1
+knorr homestyl stock   beef : 1
+parmigiano : 3
+whole wheat baguette : 2
+color food orang : 4
+vegetable oil cooking spray : 260
+goose : 1
+instant yeast : 74
+ajwain : 15
+mango : 268
+Oscar Mayer Bacon : 5
+mini m&ms : 2
+chuno sauce : 2
+hot salsa : 4
+sliced beets : 1
+dried arbol chile : 1
+no salt added canned tomatoes : 1
+baby potatoes : 19
+green tea powder : 8
+cashew milk : 1
+frozen cheese ravioli : 6
+chia seeds : 8
+Tamari Tamari : 1
+mild green chiles : 12
+soda water : 11
+sweet gherkin : 6
+sole fillet : 10
+tostadas : 15
+Ragu® Robusto!® Pasta Sauce : 1
+ascorbic acid : 1
+fat free lemon curd : 2
+lemon pepper : 37
+puff pastry : 51
+SYD Hot Rub : 4
+quahog clams : 1
+red raspberries : 3
+semi-soft cheese : 1
+medium dry sherry : 28
+fregola : 5
+dried fruit : 11
+pork sausage links : 1
+vegan sour cream : 3
+poblano peppers : 119
+chicken legs : 117
+fresno pepper : 1
+skin on bone in chicken legs : 2
+crumb crust : 2
+sazon seasoning : 5
+wasabe : 1
+free range egg : 23
+fresh fava bean : 15
+old bay seasoning : 98
+fat : 92
+ceylon cinnamon : 2
+cherrystone clams : 4
+Mezzetta Sliced Greek Kalamata Olives : 1
+curly-leaf parsley : 3
+cream of potato soup : 2
+fresh brussels sprouts : 2
+uncooked rigatoni : 6
+bone in skinless chicken thigh : 5
+nonfat cream cheese : 2
+vegetable gumbo : 2
+pointed peppers : 1
+cured pork : 1
+low sodium parmesan cheese : 1
+opo squash : 1
+regular or convert rice : 3
+celery leaves : 6
+seasoned ground turkey : 1
+low-fat cream cheese : 14
+chuck short ribs : 1
+taleggio : 3
+Japanese rice vinegar : 4
+reduced sodium chicken stock : 1
+frozen green beans : 8
+candied peel : 4
+celery ribs : 567
+knorr chicken flavor bouillon : 8
+corn tortillas : 965
+canned jalapeno peppers : 2
+quail : 11
+snail shells : 4
+fresh mint : 416
+Fisher Pecan Halves : 1
+Kraft Mayonnaise : 1
+fish fingers : 3
+jello : 4
+pound cake : 15
+low sodium soy sauce : 425
+psyllium husks : 1
+italian sauce : 1
+Italian herbs : 8
+roasted rice powder : 5
+Colman's Mustard Powder : 1
+dried minced onion : 34
+flour for dusting : 45
+Progresso™ Chicken Broth : 2
+low-fat bottled italian dressing : 1
+dijon style mustard : 27
+nacho cheese tortilla chips : 1
+lamb leg steaks : 1
+pie filling : 6
+canned beans : 2
+Hidden Valley® Original Ranch® Dips Mix : 2
+chicken broth : 1554
+yellowfin : 1
+sushi grade tuna : 5
+fingerling : 1
+Pam Cooking Spray : 1
+yellow summer squash : 11
+reduced-sodium tamari sauce : 7
+chestnut flour : 1
+buttercup squash : 1
+round sourdough bread : 3
+tiger prawn : 25
+Knudsen Light Sour Cream : 1
+fat-trimmed beef flank steak : 1
+tofu puffs : 2
+KRAFT Zesty Italian Dressing : 5
+cheese curds : 1
+mixed greens : 63
+double concentrate tomato paste : 3
+whole snapper : 2
+golden delicious apples : 32
+almond syrup : 1
+black chicken : 1
+white almond bark : 1
+rutabaga : 17
+small capers, rins and drain : 5
+beef fillet : 8
+top loin : 3
+baked pizza crust : 12
+pignolis : 2
+pattypan squash : 5
+jujube : 3
+Herdez Salsa : 1
+european cucumber : 4
+nonfat evaporated milk : 22
+sour cherries : 14
+green tea bags : 7
+beef for stew : 5
+green bellpepper : 1
+prosciutto : 284
+banana leaves : 23
+jalapeno chilies : 1730
+chunky salsa : 70
+cooked steak : 2
+shaved parmesan cheese : 8
+beef rib short : 71
+Belgian endive : 38
+currant jelly : 2
+turkey salami : 1
+Country Crock® Spread : 21
+marmalade : 4
+fresh bean : 5
+red wine vinaigrette : 1
+lean chuck roast : 1
+turkey breast : 25
+lower sodium soy sauce : 57
+catsup : 7
+sweet vermouth : 11
+red enchilada sauce : 65
+oleo : 3
+raw pistachios : 4
+reduced sodium cream of mushroom soup : 1
+Honeysuckle White® Hot Italian Turkey Sausage Links : 1
+lump crab meat : 117
+seville oranges : 1
+chicken gizzards : 7
+smoked trout fillets : 3
+shark : 1
+curaçao : 3
+grated jack cheese : 60
+pizza toppings : 4
+Saffron Road Vegetable Broth : 1
+yuzu : 5
+loin : 9
+shelled shrimp : 3
+young nettle : 1
+kirschwasser : 2
+creamy gravy : 1
+reduced sodium beef broth : 14
+agar agar flakes : 1
+greek yogurt : 233
+canned black beans : 79
+apple cider vinegar : 268
+ahi : 5
+sea bass : 19
+pomelo : 4
+mint sauce : 4
+sweet potatoes & yams : 8
+double crust pie : 7
+ground round : 49
+queso crema : 1
+Pale Ale : 2
+Mazola Corn Oil : 6
+diced green chilies : 106
+shank half : 1
+Camellia Red Kidney Beans : 1
+instant banana cream pudding : 1
+fresh orange juice : 209
+green split peas : 7
+low-fat crème fraîche : 1
+low fat chunky mushroom pasta sauce : 1
+full fat cream cheese : 2
+mango salsa : 3
+oyster-flavor sauc : 3
+doenzang : 6
+anchovy paste : 67
+sliced pears : 3
+grits : 184
+glace de viande : 2
+mostaccioli : 3
+basa fillets : 1
+spareribs : 14
+shishito chile : 1
+corn muffin : 1
+arrowroot starch : 4
+golden syrup : 30
+coconut flakes : 21
+JOHNSONVILLE Hot & Spicy Sausage Slices : 1
+mole sauce : 13
+puff paste : 1
+Spanish smoked paprika : 2
+galanga : 2
+ground espresso : 2
+tatsoi : 2
+lemon pepper seasoning : 8
+fresh cilantro : 841
+Flora Original : 1
+vegetable gumbo mixture : 1
+Smart Balance Cooking Spray : 1
+bell pepper : 387
+fresh chervil : 15
+parsnips : 68
+sweet corn : 61
+celery root : 34
+candied jalapeno : 1
+jamaican curry powder : 2
+salted cashews : 8
+soft shelled crabs : 6
+veal chops : 6
+creamer potatoes : 1
+lox : 1
+penne : 113
+jambon de bayonne : 1
+basil pesto sauce : 37
+quick-cooking hominy grits : 2
+cassis liqueur : 1
+fat-free buttermilk : 9
+preserves : 12
+chinese celery : 11
+bean paste : 39
+mussels, well scrubbed : 6
+crayfish : 4
+pepper : 4438
+char : 2
+pork shoulder boston butt : 26
+pork rind : 7
+maple flavored extract : 1
+flat leaf spinach : 11
+butternut squash : 174
+barilla piccolini mini : 1
+shirataki : 9
+beef marrow : 2
+barley grits : 1
+low-fat feta : 1
+Lipton® Recipe Secrets® Onion Soup Mix : 3
+marjoram : 103
+instant potato flakes : 4
+Progresso Black Beans : 1
+sweet potato vermicelli : 3
+pepitas : 21
+swiss steak : 1
+sucanat : 2
+cremini mushrooms : 138
+stolichnaya : 1
+lo mein noodles : 28
+culinary lavender : 1
+palm sugar : 122
+crispy bacon : 2
+top sirloin steak : 27
+fat-free cheddar cheese : 3
+pork liver : 12
+and carrot green pea : 1
+anise oil : 2
+swiss chard : 103
+mini bananas : 1
+small tomatoes : 2
+amba : 1
+Yakisoba noodles : 8
+beef kidney : 5
+spinach leaves : 72
+flax egg : 1
+Lipton Sparkling Diet Green Tea with Strawberry Kiwi : 1
+chocolate chip cookie mix : 1
+asian basil : 4
+honey mustard : 6
+sweetened red beans : 1
+chopped green chilies : 58
+vermouth : 6
+hummus : 22
+onion tops : 36
+coffee : 69
+soy milk : 27
+shredded parmesan cheese : 51
+japanese eggplants : 53
+frozen peas : 383
+coleslaw : 22
+pink salt : 1
+risotto rice : 10
+Neufchâtel : 6
+shiso : 19
+pork hocks : 3
+vanilla custard : 1
+Pillsbury™ Refrigerated Crescent Dinner Rolls : 10
+pig : 15
+whitefish fillets : 21
+radicchio : 58
+maple extract : 3
+veal bones : 1
+cannelloni : 1
+orange rind : 42
+pressed tofu : 7
+low sodium vegetable juice : 3
+red kidney beans : 95
+pickles : 36
+low-fat spaghetti sauce : 7
+wild garlic : 2
+burrito seasoning mix : 1
+blue corn tortilla chips : 3
+cutlet : 18
+prebaked pizza crusts : 15
+steak tips : 1
+mian : 1
+blade steak : 2
+strawberry syrup : 3
+loosely packed fresh basil leaves : 30
+caper berries : 6
+citrus peel : 1
+Argo Corn Starch : 1
+bouillon cube : 11
+low fat shred cheddar chees sharp varieti : 1
+leaf lettuce : 16
+gruyere cheese : 99
+sweetened condensed milk : 271
+caster : 5
+I Can't Believe It's Not Butter!® All Purpose Sticks : 4
+soft buns : 2
+reduced sodium vegetable stock : 1
+zucchini : 892
+chickpea flour : 51
+horseradish : 45
+dark meat : 1
+garlic and herb seasoning : 3
+lesser galangal : 1
+jumbo shells : 3
+vinaigrette dressing : 9
+blanched almond flour : 3
+italian-style meatballs : 2
+evaporated low-fat 2% milk : 1
+chocolatecovered espresso beans : 1
+soba noodles : 68
+frozen peppers and onions : 4
+Knorr® Fiesta Sides Spanish Rice : 1
+Hidden Valley® Original Ranch® Dressing : 4
+thyme leaves : 41
+malt syrup : 4
+chili sauce : 147
+chunky style pasta sauce : 1
+blanched hazelnuts : 3
+French bread loaves : 3
+corn salsa : 5
+Everglades Seasoning : 1
+red mustard : 1
+cubed potatoes : 7
+sweet soy sauce : 29
+buns : 17
+store-bought pound cake : 1
+quick-cooking oats : 19
+reduced sodium chicken broth : 183
+sugarcane sticks : 2
+creole mustard : 65
+honey roasted peanuts : 4
+sandwich wraps : 1
+silver dragees : 2
+KRAFT Shredded Mozzarella Cheese : 1
+gooseberries : 4
+cherries : 46
+hake fillets : 1
+Knorr® Pasta Sides™ - Butter & Herb : 1
+korean vermicelli : 1
+lamb steaks : 2
+pea shoots : 8
+fat free less sodium vegetable broth : 2
+virgin olive oil : 5
+italian eggplant : 10
+pancetta : 177
+fideos pasta : 1
+chile bean paste : 5
+Rotel Diced Tomatoes & Green Chilies : 1
+kim chee : 1
+clam sauce : 1
+wood mushrooms : 1
+Manischewitz Matzo Meal : 1
+chinese chili paste : 2
+Barilla Plus Pasta : 1
+roast beef : 18
+Alexia Waffle Fries : 1
+Italian cheese blend : 7
+White Lily Flour : 2
+peeled diced tomatoes : 1
+preserv raspberri seedless : 2
+chat masala : 15
+edamame beans : 2
+sunflower oil : 97
+KRAFT Mexican Style Finely Shredded Four Cheese : 5
+italian style seasoning : 13
+lop chong : 1
+ground almonds : 50
+fructose : 2
+french sandwich rolls : 2
+corned beef : 32
+halibut : 26
+prune juice : 1
+dried navy beans : 7
+wing sauce : 1
+passata : 24
+kaiser rolls : 11
+mustard : 108
+cranberry juice : 10
+jamaican jerk spice : 5
+lecithin : 1
+atlantic cod fillets : 1
+sodium free chicken broth : 1
+bechamel : 5
+condensed cream of mushroom soup : 55
+coconut chips : 1
+chopped parsley : 333
+grated lemon zest : 342
+garlic naan : 1
+tart shells : 8
+mission figs : 6
+dried chile : 46
+barbecue seasoning : 1
+spring roll wrappers : 58
+pure acai puree : 4
+bhindi : 3
+ground sage : 21
+darjeeling tea leaves : 1
+mushrooms : 578
+slaw mix : 43
+green pesto : 1
+sandwich buns : 6
+cacao powder : 3
+dipping chocolate : 1
+white cake mix : 17
+haddock fillets : 9
+hibiscus flowers : 3
+Equal Sweetener : 13
+cornflake crumbs : 6
+asian noodles : 3
+sweet white miso : 3
+pink peppercorns : 12
+shredded low-fat cheddar : 1
+caciocavallo : 2
+sweet mustard : 2
+beef round : 4
+shredded romano cheese : 2
+cava : 2
+drambuie : 3
+wild rice : 20
+mousse : 1
+ouzo : 10
+barramundi fillets : 1
+Jonshonville® Cajun Style Chicken Sausage : 1
+diet dr. pepper : 2
+sweet corn kernels : 9
+cream style corn : 83
+Italian seasoned diced tomatoes : 1
+other : 2
+single malt Scotch : 1
+chocolate sandwich cookies : 2
+pork belly : 124
+black bean sauce : 31
+tuna steaks : 40
+fresh pasta : 7
+red velvet cake mix : 1
+medium firm tofu : 13
+chard : 10
+achiote : 8
+tony chachere's seasoning : 1
+emerils original essence : 5
+vanilla wafers : 35
+jerk sauce : 6
+ruby red grapefruit : 4
+yellow mustard seeds : 35
+oil : 1970
+frozen mango : 2
+baking soda : 942
+honey glazed ham : 3
+whole grain spelt flour : 1
+orange juice concentrate : 19
+tomato juice : 83
+low-fat sesame-ginger dressing : 1
+old fashioned stone ground grits : 1
+panko : 83
+flowering chives : 4
+instant white rice : 10
+plain flour : 154
+truffle oil : 21
+bananas : 224
+pepperocini : 2
+Biryani Masala : 11
+teff : 1
+muscat : 4
+roasted white sesame seeds : 6
+clementine juice : 1
+frozen stir fry vegetable blend : 3
+thai jasmine rice : 5
+fontina cheese : 107
+pie crust : 60
+radish slices : 2
+dried allspice berries : 1
+bacardi : 2
+soft fresh goat cheese : 37
+cornbread crumbs : 1
+chinese ham : 5
+candy bar : 4
+ground nuts : 1
+(   oz.) tomato paste : 9
+tropical fruits : 2
+pandan essence : 1
+couscous : 189
+chopped leaves : 7
+low-fat white sauce : 1
+boneless center cut pork chops : 4
+kielbasa (not low fat) : 1
+Knorr® Pasta Sides™ - Chicken flavor : 1
+flour : 1348
+Toulouse sausage : 1
+smoked & dried fish : 6
+pumpkin : 61
+cheese dip : 3
+tamari almonds : 1
+edamame : 51
+reduced sodium beef stock : 1
+fat free frozen top whip : 11
+frozen sweet peas : 7
+manicotti shells : 20
+dried dill : 16
+crab boil : 17
+ginger syrup : 2
+Old Bay Blackened Seasoning : 1
+vegetarian oyster sauce : 3
+masa dough : 12
+toasted slivered almonds : 14
+chinese spinach : 3
+Sugar in the Raw : 1
+refrigerated crescent rolls : 25
+diced ham : 16
+Marcona almonds : 2
+saltines : 38
+salted peanuts : 38
+dried udon : 6
+red pepper hot sauce : 2
+nonfat buttermilk : 14
+raita : 9
+whole wheat orzo : 1
+ground chicken breast : 17
+double cream : 40
+beef bouillon powder : 2
+low-fat balsamic vinaigrette : 1
+pancetta slices : 2
+chinese red vinegar : 1
+reduced sodium vegetable broth : 5
+mini chocolate chips : 7
+organic unsalted butter : 2
+raw sugar : 29
+curry : 68
+meat seasoning : 1
+tomatillo salsa : 10
+boiled ham : 3
+xuxu : 1
+tuna packed in water : 9
+garlic paste : 282
+barolo : 2
+caul fat : 3
+brown rice syrup : 3
+duck liver : 3
+tart : 6
+lamb neck : 5
+genoa salami : 29
+maca powder : 1
+petits pois : 1
+walnut halves : 25
+diced red onions : 47
+unsweetened soymilk : 6
+kalamansi juice : 2
+steamed rice : 50
+pansies : 1
+shells : 42
+minced chicken : 4
+bone marrow : 2
+valencia rice : 2
+teriyaki sauce : 55
+canned low sodium chicken broth : 96
+dark chicken stock : 1
+mexican chocolate : 32
+gravy granules : 2
+Boursin : 1
+frozen lemonade concentrate : 12
+xanthan gum : 20
+phyllo pastry : 36
+oat flour : 3
+jamaican jerk : 1
+fresh rosemary : 442
+melissa : 1
+cheese slices : 20
+oregano : 440
+chunky tomato salsa : 3
+grouper : 16
+cajun-creole seasoning mix : 2
+speck : 1
+marshmallow vodka : 1
+sorbet : 7
+mashed cauliflower : 1
+demi baguette : 1
+extra wide egg noodles : 2
+crosswise : 1
+linguisa : 1
+liver pate : 8
+dried tarragon leaves : 48
+Amarena cherries : 1
+fresh poblano pepper : 2
+italian vinaigrette : 1
+mild cheddar cheese : 11
+long-grain rice : 353
+grated pecorino : 7
+medium shrimp : 461
+San Marzano Diced Tomatoes : 1
+refried beans : 250
+sweet potatoes or yams : 5
+pitas : 47
+sweet and sour sauce : 13
+honey whiskey : 1
+cod : 36
+wild mushrooms : 50
+ice cubes : 130
+ravva : 11
+frankfurters : 1
+persian cucumber : 24
+burgers : 5
+Sargento® Artisan Blends® Shredded Parmesan Cheese : 1
+Elmlea Single Light : 1
+boneless beef rib eye steaks : 2
+chile piquin : 1
+baking powder : 1738
+rhubarb : 23
+frozen spring roll wrappers : 3
+butter pecan ice cream : 2
+champagne vinegar : 29
+blanched almonds : 93
+cream sherry : 14
+stewing steak : 2
+no-salt-added diced tomatoes : 18
+whole grain English muffins : 1
+grated carrot : 42
+coconut aminos : 17
+pecan halves : 102
+flavored tortilla chips : 2
+lemon-lime soda : 12
+grapefruit : 19
+pork cheeks : 2
+Hurst Family Harvest Chipotle Lime Black Bean Soup mix : 1
+vegetable fats : 1
+chicken egg : 1
+fruit cocktail : 5
+garlic cloves : 6237
+whole wheat berries : 1
+white arborio rice : 2
+Texas toast bread : 2
+mandarin juice : 1
+florets : 44
+lentils : 87
+lamb for stew : 2
+pork shanks : 1
+cookies : 27
+english breakfast tea bags : 1
+fenugreek leaves : 59
+wine vinegar : 23
+gochugaru : 30
+sole : 3
+varnish clams : 14
+fritos : 9
+port : 20
+reduced fat creamy peanut butter : 5
+millet : 5
+maida flour : 17
+chervil : 17
+beer : 202
+smoked bacon : 33
+Amaretti Cookies : 11
+low-fat greek yogurt : 13
+low-fat chicken broth : 1
+hamburger : 18
+chickpeas : 402
+posole : 6
+beaten eggs : 58
+guava : 5
+Heinz Tomato Ketchup : 1
+buckwheat noodles : 10
+daikon sprouts : 1
+chestnuts : 31
+sweet & sour stir fry sauce : 1
+aged cheddar cheese : 3
+pâte brisée : 1
+yoghurt : 247
+taco sauce : 63
+hibiscus : 2
+black truffles : 11
+chocolate graham crackers : 1
+Pompeian Canola Oil and Extra Virgin Olive Oil : 4
+frozen pastry puff sheets : 106
+garden peas : 17
+bocconcini : 17
+condensed cream of celery soup : 7
+kosher salt : 3113
+white creme de cacao : 1
+Tabasco Green Pepper Sauce : 21
+hazelnut oil : 9
+pork baby back ribs : 26
+fruit : 50
+lamb leg : 7
+shellfish : 4
+mace : 81
+2 1/2 to 3 lb. chicken, cut into serving pieces : 2
+chopped cilantro : 796
+whole wheat french bread : 2
+chicken-flavored soup powder : 18
+Pure Wesson Canola Oil : 1
+rotini : 60
+candied pineapple : 2
+crumb topping : 3
+diced chicken : 8
+coke zero : 2
+mustard seeds : 313
+lamb loin chops : 22
+assam : 1
+low-fat caesar dressing : 1
+green onions : 3078
+melted fat : 1
+waffle fries : 1
+tex-mex shredded cheese : 2
+fat free less sodium chicken broth : 473
+french fries : 8
+roast : 22
+baby carrots : 72
+grated orange : 149
+Burgundy wine : 19
+brats : 7
+shanghai bok choy : 2
+cream cheese with chives : 2
+cracked wheat : 1
+ground thyme : 36
+thin pizza crust : 14
+red swiss chard : 5
+flaked oats : 1
+vietnamese rice paper : 3
+center cut loin pork chop : 16
+dark muscovado sugar : 4
+chile pepper : 340
+yellowtail : 1
+raspberry preserves : 10
+butter cooking spray : 16
+dried cranberries : 51
+sweet basil : 6
+citrus vinaigrette : 1
+coriander : 458
+dried dates : 6
+nonfat greek yogurt : 23
+reduced sodium chicken flavor stuffing mix : 1
+low sodium chicken : 2
+yolk : 14
+turbot fillets : 1
+seasoned flour : 6
+toasted coconut : 6
+bows : 6
+cholesterol free egg substitute : 1
+strong white bread flour : 16
+artichokes : 75
+red currants : 1
+Gochujang base : 142
+mexican style 4 cheese blend : 9
+cucumber salad : 2
+raw cashews : 32
+chinese pea pods : 1
+fresh red chili : 33
+lobster tails : 5
+cooked ham : 74
+pineapple : 120
+boned lamb shoulder : 3
+sansho : 4
+salmon caviar : 1
+rotel tomatoes : 26
+japanese peanuts : 1
+Sargento® Traditional Cut Shredded 4 Cheese Mexican : 2
+whiskey : 30
+bottled clam juice : 51
+fresno chiles : 13
+broccoli romanesco : 1
+chicken in water : 1
+mild sausage : 1
+hong kong-style noodles : 2
+reduced fat shredded cheese : 4
+light sour cream : 55
+sprouts : 15
+beef : 273
+fresh thyme leaves : 190
+amberjack fillet : 1
+beef broth : 381
+Bertolli Garlic Alfredo Sauce : 2
+fresh sea bass : 3
+Fisher Pecans : 1
+whole wheat peasant bread : 1
+chinese rock sugar : 5
+vegan butter : 9
+freeze-dried strawberries : 1
+roast beef deli meat : 7
+açai : 14
+garbanzo bean flour : 1
+whole wheat tortilla wraps : 1
+red potato : 205
+chocolate sauce : 9
+fat free cream cheese : 18
+tarama : 2
+apples : 165
+whole wheat potato buns : 1
+plantains : 38
+chuck roast : 66
+mineral water : 1
+natural low-fat yogurt : 2
+furikake : 8
+tomato jam : 1
+reduced fat mayonnaise : 22
+hellmann' or best food light mayonnais : 12
+licorice root : 2
+raw tiger prawn : 2
+minced garlic : 1583
+cloud ear fungus : 1
+country bread : 46
+edible flowers : 9
+vegetarian refried beans : 11
+stem ginger : 1
+fresh chicken stock : 1
+veal breast : 2
+anise seed : 54
+Spice Islands Bay Leaves : 1
+Best Food's Mayonnaise with Lime Juice : 2
+chicken schmaltz : 3
+puff pastry cups : 1
+fresh green bean : 90
+bass : 1
+smoked ham : 11
+crumbled cornbread : 6
+sliced mushrooms : 244
+sub rolls : 2
+comice pears : 1
+hazelnuts : 100
+sichuanese chili paste : 4
+merluza : 4
+pork shoulder roast : 28
+turkey : 62
+arrowroot powder : 14
+dry white wine : 1218
+pepper jack : 82
+worcestershire sauce low sodium : 1
+asian eggplants : 16
+jamaican pumpkin : 3
+peaches in syrup : 1
+chinese baby corn : 1
+disco empanada frozen : 2
+fish paste : 3
+low-fat coffee ice cream : 2
+chunky mild salsa : 3
+orange liqueur : 61
+chinese pepper : 1
+shredded cabbage : 111
+conchiglie : 1
+sumac powder : 1
+picholine : 3
+green mango : 10
+organic butter : 1
+gravlax : 1
+herbes de provence : 65
+chowchow : 1
+blueberri preserv : 1
+chicken leg quarters : 25
+jerk paste : 2
+grated cauliflower : 2
+semi firm tofu : 2
+sumac : 4
+progresso reduced sodium chicken broth : 4
+bean curd stick : 1
+sourdough : 10
+fish fillets : 77
+thai chile : 223
+vanilla essence : 13
+somen : 7
+asadero : 18
+dal : 14
+toasted sesame oil : 355
+oyster mushrooms : 33
+low sodium tomato : 1
+cranberry sauce : 5
+low fat cream : 3
+sweet onion : 336
+ground pepper : 385
+avocado leaves : 6
+sparkling mineral water : 2
+shrimp stock : 24
+caramel ice cream : 2
+cabbage : 416
+corn-on-the-cob : 10
+8 ounc ziti pasta, cook and drain : 1
+shoulder steak : 1
+truffle salt : 2
+Stonefire Tandoori Garlic Naan : 1
+veal rib chops : 7
+aka miso : 3
+tomatoes : 3058
+Old El Paso™ refried beans : 4
+cod cheeks : 1
+cream of celery soup : 12
+canned chopped tomatoes : 9
+chunk light tuna in water : 5
+carnation condensed milk : 1
+creole seasoning : 276
+blackberry brandy : 1
+mini marshmallows : 37
+lotus seed paste : 1
+bread, cut into italian loaf : 8
+peanut butter : 122
+low sodium beef bouillon granules : 1
+light alfredo sauce : 9
+chile negro : 3
+roasted hazelnuts : 22
+poppyseeds : 1
+turkey breast tenderloins : 2
+cabbage head : 1
+mandarin orange segments : 8
+pita chips : 9
+cake flour : 179
+moose : 1
+banana blossom : 5
+granita : 1
+chicken thighs : 336
+turkey meat : 15
+heirloom squash : 1
+calamata olives : 6
+tuna, drain and flake : 1
+french style sandwich rolls : 1
+Goya Ground Cumin : 1
+soy-based liquid seasoning : 1
+boneless skinless chicken breasts : 1111
+lean ground meat : 13
+buffalo sauce : 11
+egg yolks : 542
+extra : 1
+sodium free chicken stock : 1
+masa harina : 100
+kochujang : 7
+Japanese Mayonnaise : 2
+venison roast : 1
+kippers : 1
+beer batter : 1
+shredded coleslaw mix : 13
+raisins : 460
+Reblochon : 2
+small shells : 1
+turkey tenderloins : 11
+portabello mushroom : 68
+fruit juice : 1
+Kahlua Liqueur : 1
+Italian basil : 4
+chicken cutlets : 36
+chicken sausage : 20
+condensed cream of chicken soup : 62
+canned tomatoes : 75
+drummettes : 3
+ground blanched almonds : 4
+pork country-style ribs : 11
+green papaya : 26
+reduced fat provolone cheese : 2
+dried guajillo chiles : 21
+fruitcake : 1
+imitation vanilla flavoring : 1
+garlic pepper blend : 1
+pitted prunes : 20
+nopalitos : 5
+french rolls : 10
+whole wheat bread flour : 1
+chunky tomatoes : 1
+pineapple juice : 82
+fresh turmeric : 9
+drippings : 8
+garlic herb feta : 4
+coffee granules : 34
+chicken broth low fat : 2
+balsamic reduction : 6
+Pillsbury Pie Crusts : 1
+parboiled rice : 11
+frozen ravioli : 2
+black onion seeds : 2
+melon liqueur : 2
+kaffir lime leaves : 133
+instant espresso powder : 61
+candy : 26
+huckleberries : 1
+salami : 54
+golden brown sugar : 83
+green tea leaves : 3
+rouille : 6
+dipping sauces : 59
+liquid smoke : 34
+kirschenliqueur : 3
+carpaccio : 2
+polenta : 148
+water chestnut powder : 1
+gluten-free penne : 1
+bottom round : 2
+olive tapenade : 3
+pancit : 1
+roasted chestnuts : 6
+soy sauce : 3296
+Tapatio Hot Sauce : 1
+brandy : 169
+sherry wine : 19
+McCormick Parsley Flakes : 2
+pastry cream : 7
+pineapple chunks in natural juice : 1
+green pumpkin seeds : 9
+kimchi : 112
+broccoli rabe : 48
+broiler chicken : 1
+duck drippings : 1
+Piment d'Espelette : 5
+shao hsing wine : 6
+peanuts : 406
+tofu : 136
+boudin : 3
+cooking spray : 1490
+greater galangal : 2
+whole peeled tomatoes : 127
+breast : 2
+Boston lettuce : 27
+black olives : 229
+green cardamom : 86
+CURRY GUY Smoked Garam Masala : 1
+crawfish : 118
+fromage blanc : 6
+rock sugar : 18
+red quinoa : 1
+turtle : 1
+garlic mayonnaise : 1
+bosc pears : 23
+whipped butter : 2
+sour cream : 1539
+soft-wheat flour : 10
+duck : 49
+cummin : 2
+ground caraway : 3
+black-eyed peas : 196
+garnish : 8
+pizza doughs : 117
+Mazola Canola Oil : 1
+tartar sauce : 20
+praline syrup : 1
+marrons : 1
+orange marmalade : 42
+spiced rum : 7
+sloe gin : 1
+flavored vinegar : 2
+jicama : 88
+green tomato relish : 1
+chees mozzarella stick : 3
+chocolate drink : 1
+fiddlehead ferns : 1
+herb seasoning : 12
+grating cheese : 67
+ditalini : 11
+ground chile : 5
+cornflake cereal : 10
+egg beaters : 1
+hot italian turkey sausage : 2
+bone-in short ribs : 1
+miniature semisweet chocolate chips : 5
+pico de gallo : 79
+galangal : 85
+powdered milk : 31
+annatto powder : 3
+salmon roe : 3
+romaine lettuce hearts : 3
+margarine spread : 1
+shiraz : 1
+gingerroot : 119
+round steaks : 28
+black mission figs : 9
+thin deli ham : 3
+dark chocolate chip : 5
+porcini : 12
+orzo pasta : 33
+low-fat tartar sauce : 1
+cress : 4
+apple schnapps : 1
+Bisquick Original All-Purpose Baking Mix : 3
+acorn squash : 18
+crushed garlic : 107
+toasted pecans : 25
+fresh chives : 113
+boiling potatoes : 99
+apricot preserves : 29
+aged gouda : 1
+chopped fresh thyme : 375
+pocket bread : 1
+cooking salt : 1
+chocolate extract : 1
+Green Giant Whole Kernel Sweet Corn : 1
+cream : 258
+pancit canton : 2
+chopped green bell pepper : 268
+shredded basil : 2
+fettuccine, cook and drain : 4
+barbecue rub : 3
+mango chutney : 58
+shanks : 9
+smoked haddock fillet : 3
+candied lemon peel : 7
+condensed tomato soup : 17
+red vinegar : 1
+dried mushrooms : 18
+nam pla : 8
+pimento stuffed green olives : 37
+spam : 5
+seedless green grape : 16
+sweet peas : 12
+reduced sodium teriyaki sauce : 2
+cactus pad : 3
+butter-flavored spray : 1
+kasuri methi : 51
+potato starch flour : 1
+whole wheat bread toasted : 2
+boneless duck breast halves : 1
+gluten-free flour : 4
+low-fat refried beans : 4
+chipotles in adobo : 193
+won ton wrappers : 42
+oil packed anchovy fillets : 4
+yellow corn : 21
+paneer : 110
+potato chips : 5
+frozen whipped topping : 14
+Flora Buttery : 1
+light kidney beans : 1
+fat-free reduced-sodium chicken broth : 8
+shell pasta : 10
+curds : 67
+sea salt flakes : 17
+american cheese food : 1
+vegan yogurt : 1
+chinese celery cabbage : 1
+frozen okra : 18
+italian seasoning : 395
+swordfish : 3
+double crust : 1
+breakfast sausage links : 1
+whole wheat pizza crust : 3
+peanut oil : 610
+cream sweeten whip : 39
+rice paddy herb : 3
+pasta spiral : 3
+frozen sweetened raspberries : 1
+spicy mayonnaise : 1
+burgundy snails : 1
+soybean paste : 14
+pork picnic roast : 1
+brownies : 3
+table syrup : 1
+whole wheat spaghetti : 29
+jack cheese : 118
+pizza sauce : 80
+cheddar cheese soup : 2
+dry coconut : 22
+crushed red pepper : 825
+tandoori paste : 5
+lasagna noodles : 209
+bean curd skins : 8
+lamb seasoning : 1
+yeast : 109
+brown rice flour : 8
+CURRY GUY Smoked Spicy Salt : 2
+dried plum : 8
+milkfish : 3
+fresh blueberries : 39
+cooked turkey : 48
+linguica : 3
+unhulled sesame seeds : 1
+chinese black bean : 2
+peanut powder : 1
+glucose syrup : 1
+Hidden Valley® Original Ranch® Spicy Ranch Dressing : 1
+stilton : 9
+swordfish steaks : 22
+lamb racks : 2
+ice cream salt : 1
+mahlab : 1
+spring water : 3
+green onion bottoms : 4
+dr. pepper : 2
+cooked pumpkin : 2
+nappa cabbage : 2
+dried bonito flakes : 42
+boneless lamb : 5
+prepar salsa : 30
+shredded Monterey Jack cheese : 314
+Smithfield Ham : 3
+whipping heavy cream : 5
+bottled chili sauce : 2
+gumbo file powder : 2
+Robert Mondavi Fume Blanc : 1
+gluten free marinara sauce : 1
+olive oil : 7972
+orange slices : 15
+shoepeg corn : 7
+leftover steak : 1
+pinot grigio : 3
+treacle : 4
+Lea & Perrins Worcestershire Sauce : 5
+truffles : 5
+white tuna : 1
+meatballs : 21
+bitter gourd : 2
+skinless chicken breasts : 61
+cornflakes : 5
+graham cracker crusts : 11
+soft tofu : 47
+mascarpone : 149
+century eggs : 1
+italian meatballs : 1
+Praline Liqueur : 2
+toast : 18
+chicken fingers : 42
+catfish fillets : 109
+onion powder : 528
+cooked vermicelli : 6
+chopped fresh herbs : 18
+cauliflowerets : 1
+lamb stock : 23
+tricolor quinoa : 2
+mahimahi fillet : 2
+vegan mayonnaise : 6
+bottled low sodium salsa : 1
+vanilla soy milk : 2
+mexican cooking sauce : 2
+blueberries : 32
+pie crust mix : 2
+corn syrup : 63
+Jell-O Gelatin Dessert : 2
+plum sauce : 15
+orange peel : 36
+bone broth : 5
+broiler-fryers : 6
+lettuce leaves : 189
+Jamaican allspice : 4
+black gram : 8
+barbecue sauce : 126
+queso blanco : 10
+chopped walnuts : 128
+cereal : 1
+tangelos : 1
+dark turkey meat : 1
+green chile : 302
+chinese plum sauce : 3
+yellow tomato : 7
+romano cheese : 106
+chocolate spread : 2
+frozen seafood : 1
+Edam : 5
+citric acid : 4
+tubetti : 7
+cooked barley : 2
+chile con queso : 1
+rosé wine : 9
+potsticker wrappers : 3
+tortellini, cook and drain : 2
+black cherries : 1
+boneless turkey breast : 3
+leg of lamb : 89
+boneless beef roast : 4
+balsamic vinaigrette : 10
+jerk seasoning : 9
+Adobo All Purpose Seasoning : 1
+pickapeppa sauce : 4
+sato imo : 1
+Uncle Ben's Original Converted Brand rice : 4
+herb seasoned stuffing mix : 2
+grape juice : 6
+lean steak : 4
+black tea leaves : 15
+crepes : 18
+oxtails : 36
+granulated garlic : 50
+sliced fresh fruit : 2
+canola oil : 1223
+arak : 1
+tamarind paste : 84
+fillets : 78
+pickled vegetables : 15
+sazon goya : 1
+Betty Crocker™ oatmeal cookie mix : 1
+soy yogurt : 3
+cavatelli : 10
+endive : 3
+KRAFT Original Barbecue Sauce : 1
+plain dry bread crumb : 16
+low sodium vegetable stock : 5
+corkscrew pasta : 3
+king oyster mushroom : 1
+lite coconut milk : 18
+polish sausage : 7
+hot chili powder : 21
+frozen pound cake : 6
+shortening : 229
+snow pea pods : 2
+peanut butter chips : 1
+butterscotch filling : 1
+top sirloin : 18
+Chinese egg noodles : 44
+dried basil : 585
+hickory-flavored liquid smoke : 1
+ground red pepper : 538
+soy : 12
+redfish fillet : 1
+fenugreek : 36
+taro leaf : 1
+homemade beef stock : 4
+celtic salt : 9
+goji berries : 7
+honeydew melon : 14
+parmigiano-reggiano cheese : 61
+chocolate glaze : 4
+pistachio nuts : 22
+dragon fruit : 1
+baby turnips : 2
+black fungus : 5
+KRAFT Mexican Style 2% Milk Finely Shredded Four Cheese : 1
+brown rice vinegar : 10
+seasoned panko bread crumbs : 1
+chicken breasts : 793
+chocolate : 44
+grated nutmeg : 234
+hot curry powder : 9
+cooked rice : 387
+chestnut purée : 3
+scallion greens : 61
+oatmeal : 9
+clover honey : 3
+oat groats : 1
+cuminseed : 3
+gluten free vanilla extract : 1
+salt free chili powder : 1
+fronds : 31
+alum : 2
+condensed soup : 2
+cubed bread : 4
+Pure Wesson Vegetable Oil : 1
+lemon slices : 70
+cheese sauce : 4
+sweet mini bells : 13
+rub seasoning : 1
+chinese red rice vinegar : 2
+refried black beans : 9
+chinese turnip : 2
+duck drumsticks : 16
+green bell pepper, slice : 49
+chocolate covered coffee beans : 3
+swordfish fillets : 3
+gala apples : 13
+dende oil : 7
+alfalfa sprouts : 4
+fresh tuna steaks : 7
+butter crackers : 3
+sugar cubes : 4
+daikon : 150
+India Pale Ale : 1
+popcorn : 5
+meyer lemon : 13
+tree ears : 1
+boneless skinless chicken tenderloins : 1
+onion gravy : 3
+tongue : 1
+fillet red snapper : 38
+mezcal : 4
+grappa : 9
+borage : 2
+havarti : 1
+plums : 66
+Sriracha : 298
+star anise : 259
+organic milk : 2
+shallots : 1477
+salad seasoning mix : 4
+erythritol : 2
+cornish hens : 13
+knorr rice side   cheddar broccoli : 2
+Oscar Mayer Deli Fresh Smoked Ham : 3
+karo : 1
+whole wheat uncooked lasagna noodles : 1
+potato nuggets : 1
+masa : 25
+fennel bulb : 205
+vegetable demi-glace : 3
+liverwurst : 1
+adobo : 15
+distilled vinegar : 8
+leftover meat : 1
+cola soft drink : 4
+sauerkraut : 28
+smoked eel : 1
+Pace Picante Sauce : 7
+lap cheong : 1
+mini cucumbers : 2
+mexican chorizo : 33
+boneless pork shoulder roast : 10
+salmon fillets : 159
+Knorr Fish Stock Cubes : 1
+mellow white miso : 1
+yukon gold potatoes : 218
+cherry pie filling : 4
+chili paste : 122
+white poppy seeds : 4
+pork and beans : 7
+coconut butter : 2
+linguine, cook and drain : 2
+chinese radish : 1
+light butter : 17
+food colouring : 32
+white cannellini beans : 3
+pork spareribs : 25
+ground tumeric : 25
+agave tequila : 1
+pure vanilla : 2
+paprika : 1287
+tentacles : 13
+low sodium garbanzo beans : 2
+hot dogs : 23
+vegetarian chicken : 1
+pumpkin seed mole : 1
+blackpepper : 1
+whole wheat rotini : 3
+gorgonzola dolce : 4
+crema mexicana : 22
+softened butter : 49
+burrata : 7
+light cream or half and half : 1
+thai green curry paste : 50
+italian rolls : 1
+frozen limeade concentrate : 11
+warm buns : 1
+wine syrup : 1
+groundnut : 10
+red chili peppers : 644
+chicken stock cubes : 46
+light tuna : 1
+limeade concentrate : 2
+blackcurrant syrup : 1
+poured fondant : 1
+scones : 1
+coke : 3
+cookie crumbs : 3
+Spice Islands® Minced Garlic : 1
+crumbled goat cheese : 7
+whole wheat breadcrumbs : 17
+dried cascabel chile : 2
+watercress leaves : 8
+dried beans : 4
+dried black beans : 36
+kimchi juice : 6
+frisee : 19
+whole grain mustard : 42
+ramen noodles : 60
+smoked fully cooked ham : 2
+clamato juice : 3
+guanabana : 1
+bock beer : 1
+lager : 14
+orange blossom honey : 11
+sliced salami : 4
+sheepshead : 1
+new mexico red chile powder : 1
+Crispy Rice Cereal : 2
+new mexico chile pods : 1
+globe eggplant : 5
+sweet paprika : 134
+giblet : 12
+gluten-free tamari sauce : 1
+meat marinade : 2
+dried rosemary : 173
+center cut pork chops : 20
+Anaheim chile : 51
+deli rolls : 3
+sliced shallots : 22
+saffron threads : 277
+paneer cheese : 10
+white grapefruit : 2
+asian dressing : 1
+steamer : 10
+halloumi cheese : 3
+condensed fiesta nacho cheese soup : 5
+Mexican oregano : 100
+low fat mild Italian turkey sausage : 1
+dry fettuccine : 1
+cooked bone in ham : 4
+potato flakes : 8
+gran marnier : 13
+jamaican jerk season : 22
+grana : 1
+all potato purpos : 5
+rice syrup : 10
+bing cherries : 4
+clarified butter : 51
+caribbean jerk seasoning : 4
+dry roasted peanuts : 64
+sweet red bean paste : 5
+dry jack : 1
+Heinz Worcestershire Sauce : 1
+glucose : 1
+pig feet : 4
+nacho chips : 2
+rye bread : 12
+serrano peppers : 104
+fine salt : 24
+mahi mahi : 4
+orange juice : 338
+Knorr® Vegetable recipe mix : 2
+demi-glace : 5
+gluten-free bread : 1
+dashi powder : 16
+knorr parslei minicub : 1
+cho-cho : 3
+ditalini pasta : 17
+sugarcane : 2
+lipton onion soup mix : 1
+red drum : 1
+dry vermouth : 39
+whole kernel corn, drain : 106
+pork blood : 5
+Frangelico : 11
+passion fruit : 9
+quince paste : 3
+nonfat milk powder : 1
+kokum : 2
+pane di casa : 1
+almond filling : 2
+italian style stewed tomatoes : 17
+semisweet chocolate : 164
+water crackers : 1
+basil olive oil : 1
+beet greens : 6
+arrowroot : 14
+pork leg : 6
+lime rind : 78
+pork shoulder butt : 15
+sweet and sour mix : 3
+parsley root : 2
+bibb lettuce : 25
+low-fat smoked sausage : 2
+back bacon rashers : 4
+chicken gravy : 2
+jack daniels : 6
+tarragon vinegar : 11
+sushi vinegar : 1
+refrigerated chocolate chip cookie dough : 1
+boneless chops : 1
+1% low-fat chocolate milk : 2
+riesling : 12
+cointreau : 12
+pastina : 2
+Conimex Woksaus Specials Vietnamese Gember Knoflook : 1
+gray salt : 3
+yams : 41
+tawny port : 21
+yellowfin tuna : 3
+candied bacon : 1
+oyster liquor : 1
+chives : 206
+peperoncino : 6
+pernod : 21
+amaretto : 28
+korean chile paste : 10
+ground chuck : 47
+Crisco Pure Canola Oil : 1
+frozen broccoli florets : 15
+farro : 21
+dried strawberries : 1
+buckwheat groats : 2
+boneless skinless chicken thigh fillets : 1
+lime leaves : 46
+baking yeast : 3
+large marshmallows : 3
+low fat cream of celery soup : 1
+low sodium gluten free soy sauce : 2
+beef heart : 3
+kingfish : 1
+Swanson Chicken Broth : 10
+pita bread : 40
+bonito flakes : 38
+dried currants : 95
+red chard : 1
+yellow onion : 1184
+strawberry preserves : 5
+caramel topping : 4
+almond liqueur : 5
+tripe : 7
+poussins : 2
+whole chicken : 45
+muscadet : 1
+frozen bread dough : 11
+orange : 355
+microgreens : 2
+dip mix : 1
+cream filled chocolate sandwich cookies : 2
+sliced ham : 25
+lipton pure leaf unsweeten iced tea : 1
+baked beans : 9
+ice water : 164
+ramen soup mix : 2
+baby radishes : 2
+fino sherry : 3
+knorr reduc sodium chicken flavor bouillon cube : 1
+stevia powder : 2
+crouton italian season : 1
+greens : 96
+whole wheat pastry flour : 30
+kamut flour : 1
+whole grain buns : 1
+figs : 33
+yucca root : 1
+tamale filling : 3
+Quorn crumbles : 1
+pie dough : 26
+fat free greek yogurt : 10
+flat anchovy : 7
+rosewater : 4
+McCormick Ground White Pepper : 1
+ranch dip : 1
+chinese parsley : 3
+cooked long-grain brown rice : 3
+rum extract : 3
+artificial sweetener : 1
+haloumi : 1
+country loaf : 3
+food paste color : 2
+rice paper : 69
+ground pork : 473
+tamarind : 39
+low-fat deli ham : 1
+Makers Mark Whisky : 1
+cardamom seeds : 34
+roasted pepitas : 1
+low-fat milk : 44
+all beef hot dogs : 2
+i can't believ it' not butter! made with olive oil spread : 2
+brazil nuts : 2
+bengal gram : 12
+ears : 3
+dulong : 1
+celery powder : 1
+cajun seasoning : 376
+honey dijon mustard : 2
+mushroom caps : 39
+broad beans : 5
+dried neem leaves : 1
+straight bourbon whiskey : 1
+ground paprika : 22
+piment despelette : 1
+yoghurt natural low fat : 1
+dark soy : 1
+accent : 2
+spring onions : 407
+kha : 1
+chocolate cake mix : 3
+coulis : 2
+medium potatoes : 1
+pinto beans : 171
+escarole : 60
+gingersnap crumbs : 3
+chocolate truffle : 2
+kefir : 5
+cubed meat : 2
+iceberg lettuce : 164
+cane vinegar : 10
+brine-cured olives : 17
+jamaica : 2
+unsmoked bacon : 2
+dried rigatoni : 1
+squash blossoms : 4
+black pudding : 2
+chicken feet : 5
+banana extract : 1
+nuoc mam : 6
+sweetened coconut : 3
+sponge cake : 10
+tomatillos : 322
+Jasmine brown rice : 2
+powdered turmeric : 3
+cremini : 2
+McCormick® Pure Vanilla Extract : 1
+cooked white rice : 145
+lamb bouillon cube : 1
+reposado : 1
+lamb fillet : 3
+pumpkin purée : 19
+do chua : 1
+peaches : 263
+double smoked bacon : 1
+white corn tortillas : 23
+buttermilk ranch dressing : 1
+french fried onions : 17
+petite peas : 5
+ghee : 307
+strained yogurt : 2
+szechuan sauce : 2
+foccacia : 1
+tzatziki : 17
+chocolate sprinkles : 18
+boneless magret duck breast halves : 1
+cured chorizo : 1
+porridge oats : 5
+quick oats : 4
+pickling spices : 21
+sweet baking chocolate : 2
+tahini paste : 3
+riso : 1
+colby jack cheese : 49
+frozen artichoke hearts : 13
+malt : 1
+frosting : 19
+sorghum syrup : 5
+pearl rice : 1
+chopped hazelnuts : 4
+guajillo : 13
+string cheese : 5
+kielbasa : 28
+asian fish sauce : 158
+tagliatelle : 21
+dry pasta : 12
+roasted sesame seeds : 27
+umeboshi paste : 3
+roast duck meat : 1
+black mustard seeds : 112
+semisweet vegan chocolate chips : 1
+brown shrimp : 5
+Vegeta Seasoning : 1
+braising beef : 1
+Fuji Apple : 7
+short-grain rice : 62
+salmon steaks : 13
+frozen tater tots : 4
+tuna drained and flaked : 2
+barley : 8
+french fri frozen : 4
+beef brisket : 61
+pink grapefruit juice : 5
+solid white tuna : 5
+laksa paste : 1
+lobster stock : 1
+cipollini : 1
+deep dish pie crust : 7
+2% reduced-fat milk : 71
+red currant jelly : 10
+turbot : 2
+Rice Krispies Cereal : 2
+oriental radish : 1
+chocolate curls : 6
+muffin : 4
+pearl tapioca : 2
+(14 oz.) sweetened condensed milk : 2
+sugar pearls : 1
+Heath Candy Bars : 1
+hoja santa : 1
+Ragu Sauce : 1
+knorr chipotl minicub : 3
+skinless boneless turkey breast halves : 1
+whole wheat sandwich bread : 1
+dasheen : 1
+Mexican seasoning mix : 15
+almond flour : 40
+spring roll skins : 4
+leftover gravy : 1
+natto : 3
+glaze : 22
+lardons : 7
+chicken flavored rice : 1
+queso anejo : 6
+quick yeast : 1
+fat free beef broth : 7
+gluten-free oyster sauce : 1
+boneless chicken thigh fillets : 2
+roasted pumpkin seeds : 5
+less sodium reduced fat ham : 1
+katsuo bushi : 2
+vanilla vodka : 1
+fresh spinach : 230
+baking sugar : 1
+organic vegetable broth : 49
+seedless red grapes : 24
+simple syrup : 42
+asian chili red sauc : 3
+acini di pepe : 3
+dark chocolate : 41
+gin : 14
+yellow cake mix : 16
+cassava meal : 2
+urad dal split : 3
+chorizo sausage : 103
+ragu old world style sweet tomato basil pasta sauc : 2
+vanilla low-fat frozen yogurt : 1
+cayenne pepper : 1523
+steel-cut oats : 7
+chicken bouillon granules : 50
+crusty loaf : 1
+hot sauce : 674
+sports drink : 1
+sunflower seeds : 14
+nonfat vanilla yogurt : 1
+hazelnut liqueur : 4
+thai black glutinous rice : 1
+vine leaves : 3
+chinese ginger : 2
+coars ground black pepper : 4
+chocolate milk : 1
+Haas avocados : 6
+bee pollen : 2
+shaved chocolate : 1
+virgin coconut oil : 4
+chicken fillets : 10
+peaches in light syrup : 2
+frozen blackberries : 2
+fried wonton strips : 1
+Tyson Crispy Chicken Strips : 1
+cooked vegetables : 1
+Stonefire Italian Thin Pizza Crust : 2
+blanco chees queso : 1
+sprite : 13
+goose liver : 1
+white onion : 684
+french baguette : 44
+shrimp small uncook : 2
+sugar pea : 104
+non dairy milk : 5
+pitted cherries : 2
+lipton tea bags : 2
+ground beef : 878
+carrot juice : 1
+papaya : 34
+prepared coleslaw : 1
+shredded reduced fat reduced sodium swiss cheese : 2
+vodka sauce : 1
+verjus : 3
+unsulphured molasses : 2
+boneless salmon fillets : 3
+Gourmet Garden garlic paste : 3
+red preserved bean curd : 10
+boneless chicken thighs : 53
+baked tortilla chips : 31
+onion soup mix : 17
+shiitake : 331
+Italian seasoned breadcrumbs : 30
+celery seed : 66
+cooking cream : 3
+young coconut meat : 2
+sliced mango : 1
+torn romain lettuc leav : 3
+dri leav rosemari : 6
+baked ham : 15
+rose water : 21
+chocolate graham cracker crumbs : 1
+Cholula Hot Sauce : 4
+dark leafy greens : 7
+candied cherries : 9
+yoplait : 1
+ornamental kale : 1
+25% less sodium chicken broth : 3
+sodium reduced chicken broth : 1
+freshly grated parmesan : 105
+green tomatoes : 108
+Velveeta Queso Blanco : 1
+brussels sprouts : 35
+purple grapes : 1
+sweet chili sauce : 112
+black truffle oil : 3
+amontillado sherry : 1
+samphire : 1
+shortbread : 1
+breast of lamb : 2
+chip plain tortilla : 10
+eau de vie : 4
+organic soy sauce : 1
+kiwi fruits : 10
+orange roughy fillet : 1
+Campbell's Condensed Cream of Mushroom Soup : 2
+tartlet shells : 2
+homemade meatballs : 1
+hemp seeds : 6
+knockwurst : 4
+white cabbage : 10
+seafood stock : 16
+pickled jalapeno peppers : 7
+skinless chicken thighs : 9
+cane sugar : 20
+grapefruit juice : 15
+dried prawns : 1
+cucuzza : 1
+semi-sweet chocolate morsels : 77
+lotus leaves : 1
+toasted peanuts : 10
+kashmiri chile : 2
+evaporated cane juice : 4
+kumquats : 16
+coconut sugar : 37
+herring fillets : 2
+thin rice stick noodles : 2
+liquid honey : 6
+queso panela : 4
+caponata : 1
+tamarind extract : 6
+masoor dal : 11
+orange glaze : 1
+extra large shrimp : 19
+radishes : 282
+porterhouse steaks : 6
+suckling pig : 1
+fishcake : 10
+chicken bouillon : 77
+creamed coconut : 2
+white tequila : 2
+celery : 837
+canned corn : 14
+cubed pancetta : 1
+garlic powder : 1442
+jamaican rum : 5
+claws : 1
+ragu cheesi doubl cheddar sauc : 1
+salted roasted pecans : 1
+flounder : 3
+Cox's Orange Pippin : 1
+Bertolli® Alfredo Sauce : 8
+white distilled vinegar : 11
+duck breasts : 21
+morsels : 1
+cherry vanilla ice cream : 1
+starch : 29
+mango juice : 3
+tofu sour cream : 1
+reduced fat ranch dressing : 2
+fresh bay leaves : 21
+meatloaf : 5
+brown basmati rice : 15
+sushi rice : 81
+boiling onions : 15
+phyllo dough : 67
+sherry vinegar : 160
+smoked rashers : 1
+dressing : 63
+herbs : 87
+sea cucumber : 2
+italian sausage : 137
+broiler : 2
+rock shrimp : 6
+pasta sauce : 266
+salt pork : 37
+matcha green tea powder : 11
+cinnamon sticks : 646
+Knorr Beef Stock Cubes : 1
+black sea bass : 1
+(10 oz.) frozen chopped spinach : 3
+cream cheese, soften : 143
+quatre épices : 4
+porter : 1
+chestnut spread : 1
+beef stock cubes : 30
+oregano leaves : 6
+red grape : 13
+shrimp shells : 12
+dried red chile peppers : 103
+cooked deli ham : 1
+rapeseed oil : 14
+green curry paste : 46
+cod fish : 4
+cones : 1
+scotch bonnet chile : 46
+cherry vinegar : 1
+frozen hash browns : 5
+tom yum paste : 5
+bread crumb fresh : 170
+radish sprouts : 8
+shelled hemp seeds : 1
+whole wheat couscous : 8
+sweet tea : 6
+fast rising yeast : 2
+ragu cheesi classic alfredo sauc : 5
+boneless moulard duck breast halves : 1
+Hogue Cabernet Sauvignon : 1
+pita pockets : 3
+chenpi : 7
+Elmlea single : 1
+kahlúa : 21
+crumpet : 1
+matzos : 1
+cut up cooked chicken : 5
+hazelnut meal : 2
+yellow squash : 116
+Heinz Chili Sauce : 5
+Jiffy Corn Muffin Mix : 2
+filling : 2
+merguez sausage : 7
+white vermouth : 3
+safflower oil : 36
+Guinness Lager : 1
+black tea : 15
+wheat berries : 4
+one third less sodium chicken broth : 1
+sweet cream butter : 1
+bow-tie pasta : 103
+chili powder : 2036
+veget soup mix : 2
+frozen cranberry juice concentrate : 1
+condensed milk : 74
+bean thread vermicelli : 4
+Soy Vay® Toasted Sesame Dressing & Marinade : 1
+granulated sugar : 849
+green peas : 212
+eggplant : 501
+nonfat chicken broth : 3
+shredded mozzarella cheese : 475
+pumpkin pie spice : 22
+Jarlsberg : 4
+Tabasco Pepper Sauce : 184
+neutral oil : 38
+margarita mix : 5
+reduced fat sharp cheddar cheese : 53
+lapsang : 1
+urad dal : 68
+white fleshed fish : 10
+canela : 16
+crushed peppermint candy : 1
+veal kidneys : 1
+unsweetened iced tea : 1
+ginger liqueur : 1
+sesame paste : 18
+hoagie buns : 3
+eye of round steak : 3
+aged Manchego cheese : 2
+coriander powder : 246
+clove : 600
+hot tea : 2
+sweet italian pork sausage : 2
+beef cheek : 1
+mushroom soup : 4
+soft-shelled crabs : 1
+fenugreek seeds : 73
+glazed pecans : 3
+halibut fillets : 65
+calf liver : 5
+mandarin oranges : 31
+miso : 47
+KRAFT Mexican Style Shredded Four Cheese with a TOUCH OF PHILADELPHIA : 1
+tiger lily buds : 1
+cocktail sauce : 5
+napa cabbage : 226
+graham flour : 1
+jelly : 21
+rum raisin ice cream : 1
+açai powder : 5
+chicken-apple sausage : 3
+vegetable slaw : 1
+low-fat salad dressing : 1
+and fat free half half : 26
+beet juice : 1
+crab : 37
+matzo cake meal : 1
+ham : 222
+maltose : 9
+Madras curry powder : 36
+fatback : 11
+33% less sodium ham : 3
+dark chocolate cocoa powder : 1
+steel-cut oatmeal : 2
+Cavenders Greek Seasoning : 1
+chili pepper flakes : 18
+roe : 3
+tempura batter : 3
+baby bok choy : 86
+rib pork chops : 7
+kewra : 1
+smoked whitefish : 1
+egg bread : 4
+confectioners sugar : 395
+Goya Extra Virgin Olive Oil : 1
+kippered herring fillets : 1
+bisquick : 11
+Mexican lager beer : 1
+grated parmesan cheese : 1886
+fat-free croutons : 1
+fresh marjoram : 62
+soda bread : 5
+lamb rib roast : 1
+lean beef : 17
+banana peppers : 21
+yellow curry paste : 11
+rape : 1
+coarse ground mustard : 4
+unsalted almonds : 2
+cornish game hens : 13
+chipotle salsa : 13
+apricot brandy : 2
+Flora Cuisine : 11
+rustic bread : 2
+cheese cubes : 5
+ground turkey sausage : 1
+vital wheat gluten : 2
+canola : 35
+boneless chicken cutlet : 5
+San Marzano tomatoes : 3
+gluten free cooking spray : 1
+ground roasted sichuan peppers : 1
+shredded coconut : 41
+Daisy Sour Cream : 6
+ricard : 1
+dried leaves oregano : 13
+citron : 10
+red miso : 29
+frozen broccoli : 15
+Cinnamon Toast Crunch Cereal : 1
+dried lavender flowers : 1
+rendered duck fat : 4
+aleppo pepper : 12
+french bread : 192
+watermelon : 38
+baking chocolate : 3
+no-calorie sweetener : 1
+corn grits : 16
+red capsicum : 15
+rockfish : 2
+cooked bacon : 32
+ground nutmeg : 605
+pork sirloin chops : 3
+high-fructose corn syrup : 1
+tomato cream sauce : 1
+reduced fat Mexican cheese : 3
+chiles : 321
+chocolate mousse : 2
+pineapple preserves : 3
+turkey broth : 6
+dri leav thyme : 35
+cashew nuts : 218
+Velveeta : 30
+instant tapioca : 3
+mesquite flavored seasoning mix : 1
+Pillsbury™ classic pizza crust : 1
+1% low-fat milk : 193
+ocean perch : 1
+gremolata : 5
+forest mushroom : 1
+ginger root : 123
+low fat plain yoghurt : 3
+umeboshi plum vinegar : 1
+banana squash : 3
+Dungeness crabs : 12
+reduced fat whipped topping : 2
+borlotti beans : 5
+chicken and rice soup : 1
+goat : 7
+long grain and wild rice mix : 6
+garlic sauce : 11
+panela : 1
+angus : 1
+pullman loaf : 1
+cake batter : 4
+komatsuna : 2
+tallow : 1
+McCormick Taco Seasoning : 1
+non stick spray : 12
+prosecco : 12
+sorghum molasses : 1
+european style butter : 2
+fresh green peas : 10
+buttercream frosting : 5
+liver : 20
+pain au levain : 1
+italian salad dressing : 66
+braeburn apple : 3
+kewra water : 6
+red anjou pears : 1
+baking potatoes : 207
+avocado : 1229
+chimichurri : 1
+pozole : 4
+aquavit : 1
+pan drippings : 13
+Hellmann's® Real Mayonnaise : 6
+empanada wrappers : 1
+broccoli : 220
+filo dough : 4
+anchovy filets : 4
+frozen whole kernel corn : 84
+soybean oil : 1
+orange zest : 152
+Mexican vanilla extract : 2
+fresh flounder fillets : 1
+Bisquick Baking Mix : 8
+pepperidge farm puff pastry : 5
+rusk : 1
+Barilla Linguine : 1
+splenda no calorie sweetener : 6
+miniature chocolate chips : 2
+muesli : 2
+smoked paprika : 345
+russet potatoes : 266
+shredded American cheese : 1
+liquid aminos : 8
+reduced fat cheddar cheese : 31
+reduced fat swiss cheese : 6
+yu choy : 3
+kidney : 9
+instant oats : 1
+Accent Seasoning : 6
+balm : 3
+frozen garden peas : 1
+ground cumin : 2747
+safflower : 6
+fresh sage : 46
+fermented bean curd : 1
+high gluten bread flour : 1
+dr pepper : 2
+spanish rice : 9
+cold cut : 4
+azuki bean : 1
+rustic rub : 2
+chicken pieces : 92
+teardrop tomatoes : 2
+pita wedges : 4
+leg quarters : 7
+grated parmesan romano : 2
+liver sausage : 1
+capers : 541
+serrano : 32
+tater tots : 1
+full-fat plain yogurt : 3
+mincemeat pie filling : 1
+fat-free chicken broth : 30
+creamy peanut butter : 111
+chicken noodle soup : 5
+sticky rice : 32
+Baileys Irish Cream Liqueur : 11
+lady apples : 1
+pork meat : 7
+shoga : 1
+pepperidge farm puff pastry sheets : 1
+raspberry vinegar : 7
+fried rice : 4
+bread yeast : 1
+refrigerated pizza dough : 35
+sliced apples : 4
+rennet : 2
+dark lager : 1
+chinese five-spice powder : 253
+apricot nectar : 8
+zucchini blossoms : 2
+sesame seeds : 676
+sirloin steak : 69
+peach nectar : 17
+mexicorn : 20
+uncle bens : 4
+beef jerky : 5
+white vinegar : 554
+nonfat frozen yogurt : 1
+stir fry vegetable blend : 21
+branzino fillets : 1
+enokitake : 47
+unsweetened pineapple juice : 4
+beni shoga : 4
+truffle butter : 1
+tamarind pulp : 22
+gluten free all purpose flour : 5
+liquid egg substitute : 1
+converted rice : 10
+semolina flour : 59
+praline : 1
+linguini : 11
+boneless beef chuck roast : 19
+bottled lime juice : 2
+rice mix : 1
+maple sugar : 7
+kohlrabi : 4
+gaeta olives : 7
+wheat germ : 9
+jamaican jerk rub : 1
+enriched white rice : 3
+lambs liver : 1
+milk & cream : 2
+smoked chorizo : 1
+peach schnapps : 9
+flageolet : 3
+natural sugar : 2
+bread dough : 26
+KRAFT Shredded Low-Moisture Part-Skim Mozzarella Cheese : 1
+achiote powder : 4
+unsweetened almond milk : 10
+saffron powder : 3
+turkey sausage : 15
+Neapolitan ice cream : 1
+chilled prosecco : 4
+wasabi paste : 39
+mo hanh : 5
+gherkins : 8
+nonfat block cream cheese : 1
+english cucumber : 189
+soup : 34
+country crock honey spread : 1
+lamb cutlet : 3
+celery stick : 19
+Turkish bay leaves : 18
+nonfat half-and-half : 1
+eye of round roast : 3
+almond butter : 14
+Quinoa Flour : 3
+ngo gai : 1
+slivered almonds : 167
+madeira wine : 3
+beef rib roast : 4
+minced ginger : 198
+Italian cheese : 14
+strozzapreti : 3
+chicken heart : 1
+salmon : 55
+shrimp powder : 2
+campanelle : 6
+hot green chile : 6
+prime rib : 2
+sliced meat : 2
+light soy sauce : 347
+plain low-fat yogurt : 50
+firmly packed light brown sugar : 55
+rice : 509
+beef gravy : 10
+Mexican cheese : 68
+black radish : 1
+blood : 1
+wondra flour : 3
+helix snails : 3
+tuaca : 1
+rice milk : 1
+prepared guacamole : 6
+Zatarain’s Jambalaya Mix : 1
+white asparagus : 5
+satsumas : 6
+whole wheat buns : 2
+flour tortillas : 865
+flour tortillas (not low fat) : 4
+bread ciabatta : 21
+Hawaiian salt : 1
+textured soy protein : 2
+Bertolli Tomato & Basil Sauce : 1
+baby okra : 1
+tamari soy sauce : 90
+citrus fruit : 2
+purple onion : 1896
+mozzarella cheese : 467
+mustard powder : 52
+low sodium tomato paste : 1
+sourdough loaf : 5
+semi pearled farro : 2
+coarse sea salt : 68
+kalamata : 196
+caramel syrup : 1
+amchur : 87
+cheese tortellini : 55
+corn : 329
+rose petals : 5
+shredded zucchini : 15
+chocolate leaves : 1
+essence seasoning : 1
+pitted green olives : 41
+ampalaya : 3
+brioche buns : 3
+pappadams : 5
+Homemade Yogurt : 1
+pickle juice : 7
+Thai red curry paste : 127
+jumbo pasta shells : 44
+Velveeta Cheese Spread : 1
+fat-free shredded cheddar cheese : 2
+garlic herb spreadable cheese : 1
+chopped celery : 426
+sugar syrup : 8
+bertolli vodka sauc made with fresh cream : 1
+bitter melon : 6
+rice cakes : 33
+buttermilk self-rising white cornmeal mix : 1
+lager beer : 10
+sorghum : 2
+matsutake mushrooms : 1
+whole wheat pita pockets : 1
+Jose Cuervo Gold Tequila : 1
+chicken pan drippings : 1
+sour milk : 4
+cheese sticks : 2
+anise basil : 1
+split peas : 6
+soup bones : 1
+tangerine zest : 3
+whole wheat fettuccine : 4
+chili seasoning mix : 3
+jasmine : 6
+Karo Corn Syrup : 1
+preserved lemon : 63
+loaves : 7
+dried chickpeas : 22
+devil's food cake mix : 2
+stew : 8
+nori furikake : 1
+fresh chorizo : 2
+soba : 31
+red snapper : 22
+Kung Pao sauce : 2
+cottage cheese : 100
+purple potatoes : 1
+Saigon cinnamon : 5
+less sodium mushroom flavored soy sauce : 1
+flaked coconut : 45
+frozen strawberries : 14
+clear honey : 25
+sparkling rosé wine : 1
+Mo Qua : 1
+hot italian pork sausage : 1
+steak : 64
+ciabatta roll : 1
+bourbon liqueur : 1
+cardamom : 106
+splenda : 15
+hot fudge topping : 1
+hierba santa : 1
+meat extract : 1
+knorr tomato bouillon with chicken flavor : 1
+low salt chicken broth : 385
+small potatoes : 1
+penne pasta : 178
+rice flour : 130
+fresh dill : 243
+chile puree : 2
+mint leaves : 263
+snow crab : 1
+romana : 1
+blueberry pie filling : 1
+chambord : 7
+polenta prepar : 6
+cauliflower florets : 75
+Frank's® RedHot® Original Cayenne Pepper Sauce : 4
+tart crust : 1
+nuoc cham : 9
+pomegranate : 8
+celery flakes : 2
+albacore : 3
+chop fine pecan : 36
+rice stick noodles : 47
+spaghetti : 342
+vanilla bean paste : 15
+nonfat yogurt plain : 22
+napa cabbage leaves : 17
+cold meatloaf : 2
+Spice Islands Garlic Salt : 1
+curly endive : 8
+butter salt : 1
+frozen peach slices : 3
+sausages : 185
+Vadouvan curry : 1
+beluga lentil : 1
+mint sprigs : 131
+parma ham : 3
+cole slaw mix : 2
+veal stock : 12
+frangipane : 2
+skinned boned duck breast halves : 1
+seasoning : 137
+hot spanish paprika : 2
+american cheese slices : 3
+low sodium stock : 1
+egg whites : 453
+persimmon : 5
+33% less sodium smoked fully cooked ham : 1
+whole milk : 764
+hero rolls : 3
+part-skim mozzarella cheese : 227
+red rice : 3
+cake mix : 6
+lemon juice : 1395
+dough : 105
+low sodium crushed tomatoes : 2
+char siu sauce : 3
+herbed goat cheese : 2
+parsley : 345
+daal : 9
+lasagne : 6
+sunchokes : 2
+sliced chicken : 5
+shredded mild cheddar cheese : 15
+chile colorado : 1
+greek style plain yogurt : 117
+strawberry yogurt : 1
+anasazi beans : 2
+konbu : 66
+DeLallo Penne Ziti : 1
+cold coffee : 1
+fresh chevre : 18
+lotus roots : 8
+pickle wedges : 2
+house seasoning : 1
+marmite : 11
+smoked chicken sausages : 4
+M&M's Candy : 2
+tart apples : 16
+silver tequila : 8
+taco seasoning mix : 181
+biscuit dough : 12
+flat cut : 2
+mild curry powder : 14
+basmati : 5
+gyoza wrappers : 18
+jambalaya mix : 3
+v8 : 2
+black garlic : 1
+flatbread : 27
+Old El Paso™ mild red enchilada sauce : 1
+italian style rolls : 1
+picante sauce : 56
+reduced fat reduced sodium cream of mushroom soup : 2
+cashew chop unsalt : 2
+Jimmy Dean All Natural Regular Pork Sausage : 1
+smoked hog jowl : 1
+vegetable stock powder : 3
+white bread flour : 3
+enchilada sauce : 295
+golden zucchini : 7
+country style bread : 11
+condensed golden mushroom soup : 4
+flounder fillets : 11
+Pam No-Stick Cooking Spray : 1
+adobo style seasoning : 1
+red delicious apples : 8
+beef stock : 160
+hot water : 356
+coconut extract : 20
+lychees : 6
+rice bran : 3
+cannoli shells : 3
+toffee sauce : 2
+low-fat canned coconut milk : 1
+coleslaw dressing : 1
+buckwheat : 3
+vietnamese fish sauce : 38
+side pork : 1
+coconut milk yogurt : 2
+stone flower : 6
+bone in skin on chicken thigh : 18
+pickled okra : 11
+cauliflower : 221
+olive oil cooking spray : 26
+whole grain pasta : 3
+monkfish : 4
+coarse salt : 578
+agar : 6
+granulated white sugar : 21
+blood orange juice : 4
+red bell pepper, sliced : 7
+sourdough rolls : 1
+Louisiana Cajun Seasoning : 1
+semolina : 60
+cinnamon rolls : 3
+red wine : 229
+wonton noodles : 2
+firmly packed brown sugar : 92
+serrano chilies : 81
+duck sauce : 1
+diced bell pepper : 9
+quick-cooking barley : 4
+shiromiso : 1
+raw buckwheat groats : 1
+creole spice mix : 1
+frozen cherries : 1
+beef steak : 19
+haricots verts : 54
+cumin seed : 935
+low-fat baked tortilla chips : 2
+bolillo : 3
+stem ginger in syrup : 2
+lemon peel : 40
+toffee bits : 2
+Splenda Brown Sugar Blend : 5
+bone-in chicken breast halves : 29
+hothouse cucumber : 43
+Asian sweet chili sauce : 1
+hard shelled clams : 8
+sea bass fillets : 34
+jalape : 12
+brown mustard : 9
+smoked turkey sausage : 13
+fudge brownie mix : 6
+sharp white cheddar cheese : 10
+snapper fillets : 9
+vanilla lowfat yogurt : 7
+ground cashew : 4
+peas : 193
+pork fillet : 7
+dumpling dough : 1
+crisps : 8
+gnocchetti sardi : 1
+bone-in chicken : 5
+red wine vinegar : 752
+granary bread : 1
+cuttlefish : 1
+lavash : 2
+green leaf lettuce : 31
+bread, cut french into loaf : 3
+canned peas and carrots : 1
+mole paste : 3
+English muffins : 8
+Korean chile flakes : 22
+blood sausage : 1
+knorr italian side   creami garlic shell : 1
+fresh parsley leaves : 132
+reduced fat monterey jack cheese : 26
+achiote paste : 11
+queso fresca : 2
+turkey bacon : 12
+lemonade : 6
+ground turkey breast : 39
+dijon : 5
+chunky tomato sauce : 3
+beansprouts : 454
+chinese noodles : 22
+vermicelli : 40
+frozen spinach : 49
+small new potatoes : 12
+tomato garlic pasta sauce : 1
+canned tuna : 2
+Gold Medal All Purpose Flour : 3
+small curd cottage cheese : 18
+hen of the woods : 1
+superfine sugar : 73
+boneless chicken skinless thigh : 343
+tenderloin roast : 4
+low-fat buttermilk : 78
+cube steaks : 5
+mesclun : 8
+Crystal Farms Butter : 2
+dried chipotle pepper : 1
+buckwheat flour : 21
+frozen meatballs : 3
+fresh basil leaves : 502
+Johnsonville Smoked Sausage : 6
+vermicelli noodles : 19
+orange flower water : 37
+cooked rigatoni : 9
+semisweet baking chocolate : 3
+chipotle puree : 3
+pak choi : 10
+Nestle Table Cream : 2
+dry gin : 2
+white grapefruit juice : 1
+active dry yeast : 377
+dried orange peel : 4
+mashed potatoes : 62
+red radishes : 9
+brine-cured black olives : 20
+reduced sodium tamari : 4
+finely chopped onion : 457
+medium shrimp uncook : 28
+sourdough starter : 4
+marrons glacés : 1
+wasabi powder : 23
+sparkling lemonade : 1
+granny smith apples : 119
+spinach tortilla : 1
+black cumin seeds : 5
+tomato paste : 1158
+ground dried shrimp : 1
+buttermilk biscuits : 12
+crispy rice cereal : 3
+lobster meat : 11
+phyllo : 19
+chive blossoms : 1
+yellow rock sugar : 14
+caraway seeds : 82
+mint extract : 1
+turkey ham : 1
+gluten-free spaghetti : 2
+Kikkoman Soy Sauce : 7
+annatto seeds : 12
+garlic chili sauce : 130
+mi : 2
+fine sea salt : 285
+bittersweet chocolate : 140
+hops : 1
+pompano fillets : 2
+natural pistachios : 9
+gluten free soy sauce : 12
+gravy : 24
+pickled radish : 7
+tamarind concentrate : 34
+dried shallots : 1
+seltzer : 3
+soft margarine : 1
+spring mix : 1
+mung bean vermicelli : 1
+margarine : 220
+edible gold leaf : 1
+hakusai : 1
+scotch : 10
+carnation : 2
+fully cooked ham : 12
+whole wheat thin italian pizza crust : 1
+low sodium salt : 2
+jerusalem artichokes : 5
+paccheri : 2
+ginseng tea : 1
+ground cardamom : 237
+dark beer : 12
+Irish Red ale : 2
+lean minced lamb : 2
+venison : 6
+veggies : 27
+reduced fat milk : 76
+cooked brown rice : 41
+sirloin : 24
+gluten-free rolled oats : 1
+salad dressing mix : 4
+Holland House White Wine Vinegar : 1
+hubbard squash : 1
+cooking oil : 483
+butterscotch chips : 3
+vegan parmesan cheese : 4
+val : 1
+cassia cinnamon : 11
+pippin apples : 1
+low sodium teriyaki sauce : 6
+Wholesome Sweeteners Organic Sugar : 1
+fresh chili : 6
+sliced carrots : 100
+unsweetened coconut milk : 191
+peeled shrimp : 38
+Kraft Grated Parmesan Cheese : 10
+guanciale : 21
+ketchup : 432
+apple pie spice : 4
+chinese jujubes : 1
+salted butter : 77
+crusty whole wheat toast : 1
+rye : 4
+grated cotija : 4
+whole peppercorn : 21
+ciabatta buns : 1
+hachiya : 1
+homemade vegetable stock : 2
+channa dal : 9
+cajun style stewed tomatoes : 3
+honey liqueur : 1
+beef sirloin : 37
+young leeks : 1
+jumbo shell pasta , cook and drain : 1
+minute steaks : 1
+true cinnamon : 1
+pumpernickel bread : 4
+unsalted dry roast peanuts : 58
+green chard : 2
+cola : 7
+roasted garlic : 23
+e-fu noodl : 2
+black bean garlic sauce : 8
+artichoke bottoms : 2
+grass-fed butter : 4
+dill : 96
+pummelo : 2
+snapper head : 2
+bread slices : 50
+red bean paste : 6
+watermelon radishes : 1
+orange pekoe tea : 1
+knorr garlic minicub : 8
+dark ale : 1
+pitted black olives : 47
+ramen : 8
+salt and ground black pepper : 215
+cola-flavored carbonated beverage : 1
+turnip greens : 28
+gluten free lasagna noodle : 1
+pork chops, 1 inch thick : 2
+nori paper : 2
+ladys house seasoning : 1
+shanghai noodles : 3
+Greek dressing : 2
+sauterne : 6
+whole wheat bread dough : 1
+biga : 1
+gomashio : 1
+spinach : 366
+red bartlett pears : 2
+turnips : 113
+Breakstone’s Sour Cream : 2
+red food coloring : 71
+bone-in ribeye steak : 1
+reduced fat chunky peanut butter : 2
+espresso beans : 5
+granular no-calorie sucralose sweetener : 1
+summer savory : 3
+asian rice noodles : 2
+fresh lima beans : 4
+boysenberries : 2
+Chambord Liqueur : 1
+white chocolate chips : 11
+whole wheat pita : 14
+fat skimmed chicken broth : 78
+whole grain dijon mustard : 24
+English mustard : 10
+Indian spice : 2
+caramel sauce : 19
+meat drippings : 1
+ice : 111
+frozen popcorn chicken : 3
+coconut vinegar : 7
+jerk seasoning mix : 1
+beef boneless meat stew : 2
+rye whiskey : 6
+choy sum : 12
+fusilli : 53
+coffee liqueur : 30
+sugarcane juice : 1
+white sesame seeds : 76
+seedless raspberry jam : 5
+creamed spinach : 1
+chocolate candy : 1
+ricotta : 105
+Knorr Chicken Stock Pots : 2
+white italian tuna in olive oil : 3
+kasseri : 4
+egg pasta : 1
+pasta sheets : 9
+Estancia Pinot Noir : 1
+sundried tomato paste : 6
+belacan : 1
+grenadine : 5
+crushed graham crackers : 6
+whole wheat bread cubes : 1
+red chile sauce : 9
+cinnamon ice cream : 1
+Pernod Liqueur : 1
+cream cheese frosting : 8
+homemade chicken broth : 6
+garlic bread : 3
+greek style seasoning : 1
+beef rump : 2
+cranberry beans : 6
+turkey breast steaks : 1
+spaghetti sauce seasoning mix : 3
+low fat tortilla chip : 2
+tenderloin : 6
+pappardelle : 11
+knorr pasta side   cheesi cheddar : 1
+honeydew : 3
+hen : 1
+shrimp tails : 8
+jerk marinade : 5
+KRAFT Shredded Pepper Jack Cheese with a TOUCH OF PHILADELPHIA : 1
+catalina dressing : 8
+pickling salt : 12
+raspberry sauce : 4
+cream powder : 1
+wensleydale : 1
+guacamole seasoning mix : 1
+chicken chorizo sausages : 1
+angel food cake : 5
+assorted fresh vegetables : 5
+tapioca flour : 49
+double-acting baking powder : 21
+currant : 47
+leek tops : 1
+dill seed : 8
+shoulder roast : 2
+tamarind pod : 1
+chili habanero pepper : 2
+regular cucumber : 2
+pork roll : 1
+ice cream : 18
+black beans : 896
+turkey sausage links : 3
+port wine : 17
+hot cocoa mix : 2
+licor 43 : 1
+green chile sauce : 2
+nian gao : 1
+creole seafood seasoning : 1
+toasted buns : 1
+peperoncini : 8
+small red beans : 10
+bay scallops : 31
+crushed pistachio : 1
+knorr leek recip mix : 3
+wheat bran : 8
+smoked turkey : 16
+jackfruit : 16
+chocolate chips : 17
+baby arugula : 47
+cabrales : 2
+beef tendons : 4
+instant rice : 38
+chili con carne : 2
+roux : 10
+bottle gourd : 6
+dried hibiscus blossoms : 1
+refrigerated dinner rolls : 1
+bertolli vineyard premium collect marinara with burgundi wine sauc : 5
+alaskan king salmon : 1
+plum tomatoes : 858
+cajun remoulade : 1
+pearl onions : 85
+manzanilla : 4
+grana padano : 8
+mixed bell peppers : 3
+condensed french onion soup : 3
+chipotle sauce : 9
+brown rice : 202
+fiber one : 1
+baby tatsoi : 2
+file powder : 49
+gluten-free pie crust : 1
+prepared mustard : 32
+saltine crumbs : 2
+garlic : 7380
+soy nuts : 1
+medium salsa : 6
+chinese eggplants : 10
+cilantro leaves : 1160
+chayotes : 32
+juniper berries : 21
+hijiki : 1
+sweet white wine : 1
+malted milk powder : 1
+Swanson Vegetable Broth : 1
+romaine lettuce leaves : 41
+pork tenderloin : 228
+burgundy : 4
+awase miso : 1
+tortilla chips : 302
+frozen potatoes : 1
+links : 2
+biscuit baking mix : 4
+waxy potatoes : 31
+chapatti flour : 1
+oil packed dried tomatoes : 2
+torpedo rolls : 1
+chitterlings : 2
+iodized salt : 4
+meat filling : 3
+penn pasta, cook and drain : 3
+Ranch Style Beans : 9
+mutton : 24
+queso manchego : 2
+salt free southwest chipotle seasoning : 2
+ancho powder : 78
+flanken short ribs : 7
+cracker crumbs : 14
+lemon vodka : 1
+baby gem lettuce : 3
+reduced-fat sour cream : 105
+knorr cilantro minicub : 1
+chilcostle chile : 1
+red leaf lettuce : 23
+lemon verbena : 1
+plain soy yogurt : 1
+brine cured green olives : 8
+low-fat cottage cheese : 19
+chicken strips : 3
+yam bean : 1
+linguine : 248
+dumplings : 30
+black treacle : 7
+fresh spinach leaves, rins and pat dry : 1
+refrigerated buttermilk biscuits : 13
+nashi : 1
+fried garlic : 9
+sweet turkey sausage : 1
+soft rolls : 1
+Jagermeister Liqueur : 1
+cut up chicken : 4
+asafetida powder : 2
+cornbread stuffing mix : 6
+pink salmon : 4
+Philadelphia Cooking Creme : 3
+boiled eggs : 16
+bulgur : 24
+part-skim ricotta cheese : 125
+lumpia skins : 10
+toasted pine nuts : 39
+red mullet : 2
+white chocolate : 38
+soy bean paste : 6
+cocktail cherries : 31
+tagliarini : 2
+powdered gelatin : 5
+Hidden Valley® Original Ranch Salad® Dressing & Seasoning Mix : 2
+moong dal : 23
+Goya Hot Sauce : 1
+poblano : 15
+squid tube : 1
+sirloin tip steak : 1
+Jimmy Dean Pork Sausage : 1
+watercress : 104
+Old El Paso Enchilada Sauce : 9
+artichok heart marin : 51
+liquor : 6
+beef tenderloin steaks : 29
+center cut bacon : 11
+clams : 94
+fern : 1
+finely ground coffee : 2
+spot prawns : 1
+fennel seeds : 352
+crostini : 6
+aleppo : 1
+turkey stock : 9
+shredded bamboo : 1
+hot italian turkey sausage links : 4
+honey mustard dressing : 1
+hoja santa leaves : 2
+lambrusco : 1
+full fat coconut milk : 20
+boiling water : 350
+stewing hen : 4
+non-fat sour cream : 133
+annatto : 3
+low fat monterey jack cheese : 3
+pickled carrots : 17
+vegetable juice : 11
+corn bread : 17
+dijon mustard : 513
+tapenade : 13
+amaranth : 2
+medium-grain rice : 21
+limeade : 1
+Greek black olives : 1
+fuji apples : 1
+vanilla yogurt : 4
+soy crumbles : 1
+monkfish fillets : 7
+unsweetened chocolate : 36
+Nielsen-Massey Vanilla Extract : 1
+chunky : 8
+lemon thyme : 3
+rioja : 5
+fajita seasoning mix : 21
+oat bran : 4
+herbsaint : 1
+turkey giblet stock : 1
+duxelles : 3
+anise extract : 14
+chana dal : 23
+colby cheese : 24
+sweetened coconut flakes : 74
+lingcod : 1
+frozen shelled edamame : 13
+black rice : 6
+sweet yellow corn : 5
+reduced sugar ketchup : 1
+papad : 4
+chipotle : 25
+toasted almonds : 39
+boned skinned duck breast halves : 1
+low-fat vegetarian chili with beans : 1
+marsala wine : 121
+Skippy Creamy Peanut Butter : 1
+cod roe : 1
+irish oats : 1
+sliced chorizo : 2
+greater yam : 4
+picholine olives : 14
+nigari tofu : 1
+lettuce : 183
+vanilla wafer crumbs : 9
+self rising flour : 193
+hot sausage : 3
+Kewpie Mayonnaise : 6
+fig jam : 7
+reduced fat cream cheese : 12
+beef stew meat : 45
+great northern beans : 50
+custard powder : 5
+bucatini : 16
+sambal chile paste : 6
+marshmallows : 7
+green enchilada sauce : 31
+tandoori masala mix : 1
+jumbo macaroni shells : 1
+organic vegetable stock : 1
+shredded reduced fat cheddar cheese : 35
+sesame salt : 2
+sandwiches : 6
+curly kale : 9
+english muffins, split and toasted : 3
+cabernet : 1
+carnaroli rice : 14
+Hidden Valley® Greek Yogurt Original Ranch® Dip Mix : 1
+pork stock : 9
+Kraft Big Slice Pepper Jack Cheese Slices : 1
+cream cheese lowfat : 2
+black bean sauce with garlic : 1
+nam prik : 1
+dried soba : 3
+dried sardines : 2
+Mizkan Oigatsuo Tsuyu Soup Base : 2
+navel oranges : 58
+snaps : 1
+vegetable soup : 1
+hot pepper rings : 2
+pinot noir : 8
+cross rib roast : 1
+Klondike Rose red skin potato : 1
+soft-boiled egg : 16
+quick cooking brown rice : 14
+asian barbecue sauce : 2
+dried raspberry : 1
+fruit puree : 1
+unsweetened shredded dried coconut : 18
+graviera : 1
+fresh white truffles : 1
+brisket : 9
+aged balsamic vinegar : 12
+roasting chickens : 61
+broth : 97
+Old El Paso Flour Tortillas : 5
+gram dal : 2
+jam : 27
+ground poppy seed : 1
+doritos : 12
+chicken base : 15
+calabash : 1
+japanese rice : 19
+wonton skins : 8
+vanilla powder : 4
+tempeh : 17
+green cauliflower : 1
+mirlitons : 10
+meat : 137
+parsley flakes : 44
+pepperoni turkei : 8
+freshly ground pepper : 949
+milk chocolate chips : 5
+crumbles : 11
+herb seasoned stuffing : 2
+pepperoni : 52
+brine : 17
+v 8 juice : 1
+mixed spice : 33
+gobo root : 2
+tortilla shells : 10
+whole wheat pita rounds : 2
+hot mustard : 12
+nonfat dry milk powder : 4
+low-fat sweetened condensed milk : 1
+fresh lemon : 27
+pepperoncini : 22
+canned coconut milk : 10
+italian seasoning mix : 4
+blackstrap molasses : 2
+Eggland's Best® eggs : 3
+Jameson Whiskey : 1
+arhar : 1
+bay leaf : 839
+American cheese : 34
+mushroom soy sauce : 15
+table wine : 1
+curly leaf spinach : 1
+pineapple salsa : 4
+parmesan cheese : 591
+hungarian hot paprika : 2
+thyme : 361
+calabrese sausage : 1
+coco : 7
+pork roast : 38
+kelp noodles : 2
+Doubanjiang : 2
+cranberries : 31
+fudge cake mix : 1
+sliced leeks : 4
+carrot greens : 1
+sardines : 16
+maraschino : 1
+low-fat ricotta : 3
+chicken gravy mix : 2
+pork cubes : 3
+pot pie : 1
+satsuma imo : 6
+Old El Paso™ taco seasoning mix : 11
+chicken nugget : 1
+lamb rib chops : 12
+process cheese spread : 2
+peppermint schnapps : 1
+agave nectar : 81
+Cointreau Liqueur : 6
+popcorn chicken : 1
+rum : 77
+orgeat syrup : 1
+pasta : 321
+poultry seasoning : 62
+tequila : 133
+pimentos : 134
+littleneck clams : 62
+franks : 1
+meat glaze : 2
+water : 7457
+katakuriko : 2
+chili bean paste : 28
+peppered bacon : 2
+dry hard cider : 2
+roast breast of chicken : 12
+sliced kalamata olives : 4
+tuna fillets : 7
+low-fat vanilla wafers : 1
+bean curd : 10
+gluten free corn tortillas : 3
+California bay leaves : 50
+rose hip tea bags : 1
+cajun spice mix : 8
+white beans : 79
+whole wheat lasagna noodles : 8
+burro banana : 1
+white flour : 30
+soy marinade : 1
+won ton skins : 1
+aspic : 2
+kewra essence : 3
+asian : 1
+pork bouillon cube : 3
+gold potatoes : 12
+pork cutlets : 11
+nori flakes : 2
+low-sodium fat-free chicken broth : 22
+remoulade : 3
+white wine vinegar : 352
+beef tongue : 10
+dried cherry : 21
+malt vinegar : 51
+haricot beans : 1
+mrs. dash seasoning mix : 1
+cheese : 447
+wafer : 6
+dried lavender blossoms : 4
+arrowroot flour : 2
+nonfat vanilla frozen yogurt : 3
+tomato sauce : 865
+ground coriander : 768
+sesame butter : 1
+gari : 50
+frozen mixed berries : 11
+cake pound prepar : 1
+chinese duck sauce : 1
+fat skimmed reduced sodium chicken broth : 5
+crabmeat : 79
+mortadella : 10
+meat fats : 1
+Morton Salt : 2
+snappers : 9
+chopped fresh sage : 123
+whole wheat english muffins : 1
+msg : 29
+nonfat cottage cheese : 7
+framboise liqueur : 1
+smoked sausage : 139
+dairy free coconut ice cream : 1
+crusty sandwich rolls : 3
+whole milk greek yogurt : 7
+merlot : 8
+regular chicken broth : 1
+wheat cereal : 2
+chicken : 982
+peanut brittle : 1
+tart cherries : 2
+green beans : 341
+glass noodles : 39
+lamb loin : 3
+low sodium pinto beans : 1
+drum : 1
+broccoli florets : 190
+dry mustard : 152
+English toffee bits : 9
+Philadelphia Cream Cheese : 21
+katsuo dashi : 1
+Success White Rice : 1
+rump steak : 3
+ground cayenne pepper : 139
+superfine white sugar : 1
+turkey hot dogs : 1
+sweetbreads : 2
+crystallized ginger : 38
+tubettini : 1
+pisco : 2
+Madeira : 33
+methi : 17
+(    oz.) tomato sauce : 11
+panch phoran : 1
+rosemary : 107
+beef soup bones : 2
+toasted shredded coconut : 2
+light lager : 2
+shredded low-fat cheddar cheese : 3
+spicy pork sausage : 9
+tangzhong roux : 1
+white kidney beans : 14
+shredded lowfat monterey jack cheese : 1
+indian flat bread : 1
+baby leaf lettuce : 5
+roasted ground cumin : 1
+fat free ground turkey breast : 1
+tomato salsa : 45
+Yoplait® Greek 100 blackberry pie yogurt : 1
+pizza shells : 4
+habanero hot sauce : 3
+hog casings : 5
+chinese winter melon : 1
+piloncillo : 22
+eggnog : 1
+candy canes : 2
+virginia ham : 4
+chicken drumsticks : 94
+chinese wolfberries : 1
+white cheddar cheese : 40
+runny honey : 14
+solid white tuna in oil : 2
+extra sharp white cheddar cheese : 10
+deep-fried tofu : 3
+sour orange juice : 2
+mustard oil : 32
+Yuzukosho : 2
+butter beans : 25
+macarons : 1
+Ragu Classic Alfredo Sauce : 1
+unsweetened dried coconut : 1
+spicy brown mustard : 22
+Kraft Shredded Pepper Jack Cheese : 1
+vidalia : 4
+buffalo : 2
+country white bread : 15
+pork blade steaks : 2
+St Germain Liqueur : 1
+almond meal : 13
+beef stew : 1
+stilton cheese : 18
+dark molasses : 13
+turkey carcass : 2
+pork spare ribs : 13
+schnapps : 1
+chicken bones : 11
+piecrust : 10
+sesame : 26
+diced tomatoes and green chilies : 8
+garlic puree : 16
+Conimex Wok Olie : 1
+La Victoria Red Chile Sauce : 1
+mashed banana : 4
+brownie layer : 1
+pitted Medjool dates : 4
+gai lan : 38
+fine egg noodles : 1
+olives : 155
+red pepper : 459
+Ro-Tel Diced Tomatoes & Green Chilies : 3
+organic low sodium chicken broth : 1
+sugar cane juice : 1
+chorizo spanish : 1
+campari : 9
+orange roughy : 1
+Kraft Sharp Cheddar Cheese : 1
+turkey burger : 1
+fish bones : 1
+chinese leaf : 4
+less sodium beef broth : 20
+usukuchi soy sauce : 1
+mung beans : 34
+coarse kosher salt : 64
+Balsamico Bianco : 7
+veggie patties : 1
+black bean stir fry sauce : 1
+duck breast halves : 6
+breakfast sausages : 30
+pastis : 2
+organic tomato : 7
+vegan chicken flavored bouillon : 1
+long pepper : 5
+challa : 6
+winter savory : 1
+proscuitto : 1
+basmati rice : 326
+fat free reduced sodium chicken broth : 5
+bok choy : 119
+skinless chicken breast fillets : 1
+medium tomatoes : 7
+chillies : 121
+chicken carcass : 5
+canning salt : 3
+boneless skinless chicken breast halves : 618
+ajinomoto : 3
+kelp : 13
+braggs liquid aminos : 1
+organic granulated sugar : 1
+shark steak : 1
+strawberry ice cream : 3
+silver : 7
+guajillo chiles : 54
+raspberry jam : 20
+breadstick : 15
+collard greens : 167
+capocollo : 3
+dill pickles : 42
+pandan extract : 2
+peppadews : 1
+coconut : 178
+oysters : 60
+Lipton Lemon Iced Tea Mix : 1
+pure maple syrup : 25
+rotini pasta, cook and drain : 1
+beef bouillon granules : 16
+low-fat monterey jack : 1
+dried pappardelle : 7
+pasta water : 11
+long buns : 1
+tilapia fillets : 73
+padron peppers : 1
+calvados : 21
+chees fresh mozzarella : 76
+Maggi : 21
+low sodium fat free vegetable broth : 1
+I Can't Believe It's Not Butter!® Spread : 18
+Louisiana Hot Sauce : 14
+cooki vanilla wafer : 1
+oil-cured black olives : 21
+fresh shiitake mushrooms : 96
+lotus seeds : 2
+rye flour : 5
+peach pie filling : 3
+mentsuyu : 2
+free range chicken breasts : 2
+frozen orange juice concentrate, thawed and undiluted : 1
+pear nectar : 4
+candied fruit : 14
+ragu pizza quick sauc : 1
+cherry coke : 1
+fresh peas : 36
+fresh cranberries : 13
+squirt : 6
+swiss : 1
+dried sage : 63
+crushed pretzels : 2
+apple juice : 51
+crescent rolls : 10
+canned chicken breast : 1
+pasta rotel : 2
+king salmon : 1
+field peas : 9
+green tea : 22
+tangerine juice : 10
+strip steaks : 2
+filet mignon steaks : 6
+dried lentils : 45
+low sodium tomato sauce : 3
+homemade stock : 1
+pickling cucumbers : 12
+nutritional yeast : 27
+truffle puree : 1
+Corn Flakes Cereal : 7
+unsalted roasted pistachios : 3
+fedelini : 1
+Thai fish sauce : 108
+crabmeat frozen : 1
+crumbled corn bread : 1
+wheat free soy sauce : 3
+sundae syrup : 3
+large flour tortillas : 19
+shredded cheddar cheese : 769
+Old El Paso™ chopped green chiles : 12
+tex mex seasoning : 3
+tree ear mushrooms : 2
+rice crackers : 4
+canned chicken : 1
+earl grey tea leaves : 3
+white rum : 15
+black moss : 2
+boneless pork tenderloin : 1
+low fat reduced sodium pasta sauce : 1
+rice sticks : 24
+butter oil : 20
+pink lady apple : 2
+ranch dressing : 73
+steak seasoning : 9
+Daiya : 1
+schmaltz : 5
+chile paste with garlic : 27
+pork loin : 71
+lemon curd : 5
+smithfield ham : 1
+low-fat vanilla yogurt : 3
+citrus : 2
+dry lasagna : 4
+cinnamon hot candy : 1
+grain alcohol : 1
+Bengali 5 Spice : 4
+curly parsley : 5
+hyssop : 1
+chopped pecans : 282
+water chestnuts : 195
+butter flavor shortening : 1
+matzo meal : 9
+yellow corn meal : 341
+fresh leav spinach : 57
+winter squash : 5
+Mexican cheese blend : 174
+fresh ginger : 1503
+egg noodles : 85
+tarragon : 35
+cachaca : 70
+small green chile : 3
+carbonated water : 14
+sherbet : 1
+chicken wing drummettes : 7
+yellow lentils : 13
+sun-dried tomatoes : 161
+serrano chile : 299
+bittersweet baking chocolate : 2
+pekin duck breast halves : 1
+cocktail pumpernickel bread : 1
+Lipton® Iced Tea Brew Family Size Tea Bags : 1
+long pasta : 1
+treviso : 1
+evapor low-fat milk : 1
+pomegranate juice : 15
+raspberry lambic : 1
+cocoa : 43
+rotel pasta, cook and drain : 2
+ravioli : 16
+armagnac : 14
+sugar substitute : 7
+lillet : 1
+atta : 10
+rigatoni : 65
+cayenne : 470
+ganache : 4
+lean bacon : 10
+whole wheat hamburger buns : 8
+creamed horseradish : 2
+green cardamom pods : 80
+curry mix : 1
+A Taste of Thai Rice Noodles : 1
+chiltepín : 1
+apricot jam : 21
+nonfat sweetened condensed milk : 2
+jelli strawberri : 3
+green peppercorns : 18
+chutney : 53
+boneless chicken breast : 146
+apple slice : 1
+framboise eau-de-vie : 3
+onion slices : 2
+Classico Pasta Sauce : 1
+sodium reduced beef broth : 1
+tonkatsu sauce : 14
+cornflour : 103
+pepper leaves : 1
+stir fry sauce : 14
+sub buns : 8
+cactus paddles : 3
+knorr chicken flavor bouillon cube : 5
+chopped almonds : 47
+jumbo shrimp : 63
+grape leaves : 18
+burgundy wine : 2
+Manzanilla olives : 2
+sun dried tomato dressing : 1
+lemon zest : 249
+dried cornhusks : 8
+dried fish flakes : 2
+dinosaur kale : 1
+seafood glaze : 1
+club soda : 45
+ground chipotle chile pepper : 42
+bloody mary mix : 4
+green pepper : 373
+goma : 1
+cumin : 953
+yogurt dressing : 1
+white pepper : 439
+pink grapefruit : 8
+sesame chili oil : 5
+brown gravy mix : 5
+nuts : 35
+gluten-free chicken stock : 1
+chocolate chip cookie dough ice cream : 1
+lily flowers : 4
+peanut sauce : 20
+brandy extract : 1
+shrimp heads : 8
+pot stickers : 3
+kochu chang : 1
+seafood seasoning : 17
+dinner rolls : 10
+beef rump steaks : 3
+cream sauce : 3
+tomato ketchup : 69
+tuna in oil : 3
+hard salami : 5
+pita wraps : 1
+calimyrna figs : 15
+Kikkoman Oyster Sauce : 2
+golden beets : 6
+whole wheat sourdough bread : 1
+bbq sauce : 27
+stewed tomatoes : 175
+tumeric : 738
+mild salsa : 6
+shredded cheese : 157
+stellette : 1
+Better Than Bouillon Chicken Base : 1
+black vinegar : 40
+dried oregano : 1707
+low sodium beef stock : 8
+instant espresso : 13
+ginger paste : 119
+cornbread : 20
+Sicilian olives : 7
+single crust pie : 13
+arame : 1
+lemon grass : 100
+whole wheat submarine loaves : 1
+chinese hot mustard : 1
+asparagus tips : 6
+dried thyme : 873
+savoy cabbage leaves : 1
+Kikkoman Less Sodium Soy Sauce : 1
+roasted garlic oil : 1
+Earth Balance Natural Buttery Spread : 1
+Emmenthal : 8
+roasted cashews : 37
+evaporated milk : 208
+biscuit mix : 8
+sparkling wine : 4
+kaffir lime : 6
+banana liqueur : 6
+bagels : 3
+fresh veget : 4
+stone ground mustard : 5
+eye steaks : 1
+quick-cooking tapioca : 3
+Martha White Cornbread Mix : 1
+crème fraîche : 145
+bermuda onion : 1
+brioche : 11
+Knorr Onion Minicubes : 3
+refrigerated four cheese ravioli : 2
+sparkling sangria tradicional : 1
+imitation crab meat : 18
+carne asada : 3
+grilled chicken strips : 1
+Progresso Balsamic Vinegar : 1
+horseradish sauce : 6
+pita bread rounds : 21
+cheese spread : 9
+Johnsonville Andouille Dinner Sausage : 1
+plain breadcrumbs : 15
+ground chicken : 102
+yellow peas : 2
+dry red wine : 309
+pork rub : 1
+tomato basil sauce : 23
+ammonium bicarbonate : 1
+hamachi : 1
+french toast : 2
+nonfat milk : 18
+Hidden Valley® Farmhouse Originals Italian with Herbs Dressing : 1
+fatfre cream of chicken soup : 3
+plain chocolate : 1
+cream of coconut : 10
+jack : 25
+pistou : 3
+frozen basil : 1
+wheat starch : 3
+black trumpet mushrooms : 2
+confit : 8
+large shrimp : 414
+Kim Crawford Sauvignon Blanc : 1
+Wish-Bone® Robusto Italian Dressing : 1
+shredded sharp cheddar cheese : 167
+cream style cottage cheese : 2
+chocolate fudge ice cream : 1
+organic coconut oil : 2
+tamarind purée : 1
+regular sugar : 2
+cooking apples : 9
+chocolate ice cream mix : 1
+mein : 4
+fine granulated sugar : 5
+color food green : 17
+biscuits : 55
+oil packed anchovies : 1
+cider : 7
+Thai eggplants : 3
+deveined shrimp : 52
+sturgeon fillets : 1
+puy lentils : 1
+umeboshi vinegar : 1
+low sodium 96% fat free ham : 1
+aonori : 2
+chips : 53
+peeled deveined shrimp : 8
+ragu old world style tradit pasta sauc : 1
+unsalted shelled pistachio : 4
+skirt steak : 73
+tikka masala curry paste : 2
+fresh chile : 6
+garlic salt : 240
+no salt added chicken broth : 12
+wide rice noodles : 20
+yellow split peas : 26
+kampyo : 1
+cranberry juice cocktail : 3
+aloe juice : 1
+sunflower seed butter : 1
+whole wheat pita bread : 4
+sucralose sweetener : 1
+spicy salami : 1
+pâté : 3
+unsalted roasted peanuts : 19
+old ginger : 2
+medium egg noodles : 19
+tasso : 23
+unsweetened vanilla almond milk : 1
+boquerones : 1
+plain whole-milk yogurt : 49
+sushi nori : 5
+baking mix : 18
+rich turkey stock : 1
+smooth natural peanut butter : 2
+refrigerated seamless crescent dough : 1
+rice bran oil : 4
+cooked fettuccini : 1
+chicken salad : 1
+light margarine : 1
+grated kefalotiri : 2
+comino : 2
+hot pepperoni : 1
+Mizkan Rice Vinegar : 2
+jerk rub seasoning : 1
+feta cheese crumbles : 358
+pectin : 8
+cracked black pepper : 408
+penne rigate : 18
+kasha : 3
+celery heart : 7
+extra firm silken tofu : 1
+pickled jalapenos : 27
+hellmann' or best food real mayonnais : 37
+croutons : 41
+relish : 13
+biscotti : 3
+bbq seasoning : 2
+jambalaya : 1
+orange extract : 4
+bai cai : 1
+fresh oregano leaves : 57
+hot red pepper flakes : 171
+chanterelle : 15
+cherry gelatin : 2
+country crock calcium plus vitamin d : 2
+cubed ham : 2
+passion fruit juice : 4
+half & half : 337
+milk chocolate kisses : 1
+au jus gravy : 1
+vine tomatoes : 10
+potatoes : 1018
+tikka paste : 2
+pina colada mix : 1
+Southern Comfort Liqueur : 2
+soup mix : 2
+mahi mahi fillets : 10
+prego traditional italian sauce : 5
+instant chicken bouillon : 1
+hass avocado : 43
+toor dal : 16
+fresh cheese : 9
+bicarbonate of soda : 17
+Old El Paso™ Thick 'n Chunky salsa : 7
+japanese breadcrumbs : 3
+extra light olive oil : 6
+bartlett pears : 14
+bottled balsamic vinaigrette : 1
+taco bell home originals : 5
+blackberry jam : 6
+frozen banana : 9
+lean ground beef : 388
+vegan Worcestershire sauce : 5
+steamed white rice : 33
+fontina : 29
+wieners : 1
+chopped nuts : 14
+liquid sweetener : 1
+veal shanks : 26
+butter-margarine blend : 23
+coffee ice cream : 7
+ackee : 9
+tamarind water : 2
+wheatberries : 2
+anjou pears : 7
+vegetable seasoning : 4
+non dairy sour cream : 1
+cider vinegar : 348
+king crab legs : 3
+vanilla sugar : 9
+luncheon meat : 2
+butterscotch sauce : 2
+teas : 37
+pimenton de la vera : 1
+rice wine : 221
+low-sodium low-fat chicken broth : 2
+ikura : 1
+pasilla chiles : 29
+crabapples : 1
+wheat crackers : 1
+onion rings : 6
+pork back ribs : 4
+mincemeat : 11
+bouquet garni : 19
+diced mushrooms : 1
+parmigiana-reggiano : 4
+palm vinegar : 4
+sweet potato starch : 3
+lumpia wrappers : 16
+borlotti : 1
+vanilla cream : 2
+wheat : 26
+semi sweet mini chocolate chips : 1
+beef shank : 34
+marrow : 4
+firm tofu : 207
+cornbread mix : 14
+bread flour : 193
+KRAFT Reduced Fat Shredded Mozzarella Cheese : 1
+wax beans : 6
+english walnuts : 1
+sablefish : 1
+dri thyme leaves, crush : 3
+frozen carrots : 3
+frozen brussels sprouts : 2
+double-dark soi sauc : 1
+ground turmeric : 949
+mora chiles : 1
+knorr tomato bouillon with chicken flavor cube : 3
+whole wheat pasta : 18
+beurre manié : 2
+boneless beef short ribs : 6
+pink food coloring : 1
+george dickel : 1
+bouillon : 16
+day old bread : 3
+soya bean : 12
+Galliano : 1
+arbol chile : 10
+prego fresh mushroom italian sauce : 3
+orchid : 1
+corn niblets : 1
+ground Italian sausage : 4
+risotto : 12
+mixed peel : 6
+horseradish mustard : 2
+reduced fat italian dressing : 2
+cream of chicken soup : 83
+McCormick Ground Cumin : 1
+spring rolls : 4
+passover wine : 1
+coconut meat : 2
+rice vinegar : 1204
+salted anchovies : 1
+caramels : 10
+bacon drippings : 66
+Ortega Tostada Shells : 1
+chrysanthemum : 1
+ground flaxseed : 4
+manchego cheese : 60
+Johnsonville Mild Italian Sausage Links : 4
+dried porcini mushrooms : 100
+italian chicken sausage : 5
+vanilla low-fat ic cream : 2
+wheat bread : 7
+drumstick : 7
+white zinfandel : 1
+suet : 18
+pear tomatoes : 9
+cabernet sauvignon : 9
+asiago : 85
+chinese wheat noodles : 12
+meat stock : 2
+rib : 59
+back bacon : 3
+knorr reduc sodium chicken flavor bouillon : 3
+pimenton : 8
+meat bones : 35
+Diamond Crystal® Kosher Salt : 2
+frozen mixed vegetables : 19
+dried kidney beans : 15
+grate lime peel : 36
+bulb fennel : 1
+angel food cake mix : 2
+golden mushroom soup : 3
+egg noodles, cooked and drained : 11
+Uncle Ben's Ready Rice Whole Grain Brown Rice : 1
+oil cured olives : 10
+smoked haddock : 6
+savory : 16
+condensed reduced fat reduced sodium cream of chicken soup : 3
+mild olive oil : 21
+crushed red pepper flakes : 505
+flaxseed : 5
+organic coconut milk : 3
+baby greens : 19
+wish bone red wine vinaigrett dress : 1
+sun-dried tomatoes in oil : 36
+Kerrygold Pure Irish Butter : 3
+castellane : 2
+cooked shrimp : 92
+beef hot dogs : 1
+long green : 1
+macaroni : 36
+ground sausage : 10
+dark rum : 116
+yellow hominy : 10
+hibiscus tea : 1
+clove garlic, fine chop : 20
+chestnut mushrooms : 11
