@@ -1,7 +1,3 @@
-Explain how to run your code here.
-
-
-
 Data preprocessing:
     - ** You shouldn't need to run this -- our preprocessed data is saved as
         train_copy_5, train_copy_6, etc. **
